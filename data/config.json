@@ -116,7 +116,7 @@
     "text_hd_badge": "HD",
     "text_section_prefix": "Next",
     "match_row_hover_bg": "#222222",
-    "match_row_hover_border": "#e50914",
+    "match_row_hover_border": "#cc0063",
     "section_logo_size": "30",
     "show_more_btn_bg": "#151515",
     "show_more_btn_border": "#000000",
@@ -843,9 +843,9 @@
     "excluded": "home, our-mission, contact-us, terms, privacy, dmca",
     "league_h1": "{{NAME}} Live Stream: Watch Online, {{YEAR}} Schedule & Scores | {{SITE_TITLE}}",
     "league_intro": "Access official {{NAME}} live streams in HD on {{SITE_TITLE}}. View the full {{YEAR}} schedule, real-time scores, standings, and broadcast info for every {{SPORT}} match. No blackout restrictions.",
-    "league_live_title": "Air On Now",
-    "league_upcoming_prefix": "",
-    "league_upcoming_suffix": "Schedule"
+    "league_live_title": "Live Matches",
+    "league_upcoming_prefix": "Next",
+    "league_upcoming_suffix": "Matches"
   },
   "theme_page": {
     "font_family_base": "system-ui, -apple-system, sans-serif",
