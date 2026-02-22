@@ -1849,7 +1849,22 @@
         "Abhishek Bastola": "assets/logos/upstreams/abhishek-bastola.webp",
         "Tarun Karra": "assets/logos/upstreams/tarun-karra.webp",
         "US Arlequins Perpignanais": "assets/logos/upstreams/us-arlequins-perpignanais.webp",
-        "Section Paloise": "assets/logos/upstreams/section-paloise.webp"
+        "Section Paloise": "assets/logos/upstreams/section-paloise.webp",
+        "Nibak (W)": "assets/logos/upstreams/nibak-w.webp",
+        "Alexandr Binda": "assets/logos/upstreams/alexandr-binda.webp",
+        "Yusuke Takahashi": "assets/logos/upstreams/yusuke-takahashi.webp",
+        "Aditya Vardhan Duddupudi": "assets/logos/upstreams/aditya-vardhan-duddupudi.webp",
+        "Ilgiz Kamchibekov": "assets/logos/upstreams/ilgiz-kamchibekov.webp",
+        "Lohithaksha Bathrinath": "assets/logos/upstreams/lohithaksha-bathrinath.webp",
+        "Abhinav Sanjeev Shanmugam": "assets/logos/upstreams/abhinav-sanjeev-shanmugam.webp",
+        "S D Prajwal Dev": "assets/logos/upstreams/s-d-prajwal-dev.webp",
+        "Takuya Kumasaka": "assets/logos/upstreams/takuya-kumasaka.webp",
+        "David Jorda Sanchis": "assets/logos/upstreams/david-jorda-sanchis.webp",
+        "Masamichi Imamura": "assets/logos/upstreams/masamichi-imamura.webp",
+        "Mitsuki Wei Kang Leong": "assets/logos/upstreams/mitsuki-wei-kang-leong.webp",
+        "Tsung-Hao Huang": "assets/logos/upstreams/tsung-hao-huang.webp",
+        "Chris Dobey": "assets/logos/upstreams/chris-dobey.webp",
+        "Michael Smith": "assets/logos/upstreams/michael-smith.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2067,6 +2082,7 @@
         "Liga F Moeve": "assets/logos/leagues/liga-f-moeve.webp",
         "Pune, India, Qualifying": "assets/logos/leagues/pune-india-qualifying.webp",
         "France - Top 14": "assets/logos/leagues/france-top-14.webp",
-        "Darts": "assets/logos/leagues/darts.webp"
+        "Darts": "assets/logos/leagues/darts.webp",
+        "Snooker": "assets/logos/leagues/snooker.webp"
     }
 }
