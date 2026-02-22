@@ -1887,7 +1887,24 @@
         "Alexia Clara Adascalitei": "assets/logos/upstreams/alexia-clara-adascalitei.webp",
         "Oana Georgeta Simion": "assets/logos/upstreams/oana-georgeta-simion.webp",
         "Nicolas Jarry": "assets/logos/upstreams/nicolas-jarry.webp",
-        "Dino Pri\u017emi\u0107": "assets/logos/upstreams/dino-pri\u017emi\u0107.webp"
+        "Dino Pri\u017emi\u0107": "assets/logos/upstreams/dino-pri\u017emi\u0107.webp",
+        "Flamengo": "assets/logos/upstreams/flamengo.webp",
+        "Madureira": "assets/logos/upstreams/madureira.webp",
+        "Aguilas": "assets/logos/upstreams/aguilas.webp",
+        "Jacob Fearnley": "assets/logos/upstreams/jacob-fearnley.webp",
+        "Arthur Bouquier": "assets/logos/upstreams/arthur-bouquier.webp",
+        "Antoine Ghibaudo": "assets/logos/upstreams/antoine-ghibaudo.webp",
+        "Timeo Trufelli": "assets/logos/upstreams/timeo-trufelli.webp",
+        "Florian Broska": "assets/logos/upstreams/florian-broska.webp",
+        "Constantin Bittoun Kouzmine": "assets/logos/upstreams/constantin-bittoun-kouzmine.webp",
+        "Arina Gabriela Vasilescu": "assets/logos/upstreams/arina-gabriela-vasilescu.webp",
+        "Julia Terziyska": "assets/logos/upstreams/julia-terziyska.webp",
+        "Clement Chidekh": "assets/logos/upstreams/clement-chidekh.webp",
+        "Roman Safiullin": "assets/logos/upstreams/roman-safiullin.webp",
+        "Sebastian Ofner": "assets/logos/upstreams/sebastian-ofner.webp",
+        "Charles Broom": "assets/logos/upstreams/charles-broom.webp",
+        "Clement Tabur": "assets/logos/upstreams/clement-tabur.webp",
+        "Daniel Rincon": "assets/logos/upstreams/daniel-rincon.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2107,6 +2124,9 @@
         "France - Top 14": "assets/logos/leagues/france-top-14.webp",
         "Darts": "assets/logos/leagues/darts.webp",
         "Snooker": "assets/logos/leagues/snooker.webp",
-        "Carioca S\u00e9rie A \u2013 Mata-mata": "assets/logos/leagues/carioca-s\u00e9rie-a-mata-mata.webp"
+        "Carioca S\u00e9rie A \u2013 Mata-mata": "assets/logos/leagues/carioca-s\u00e9rie-a-mata-mata.webp",
+        "Uruguay Liga AUF": "assets/logos/leagues/uruguay-liga-auf.webp",
+        "Colombia Primera A": "assets/logos/leagues/colombia-primera-a.webp",
+        "St. Brieuc, France": "assets/logos/leagues/st-brieuc-france.webp"
     }
 }
