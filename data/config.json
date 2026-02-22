@@ -483,8 +483,8 @@
         "highlight": false
       },
       {
-        "title": "Schedule",
-        "url": "/#schedule",
+        "title": "NFL Schedule",
+        "url": "/#nfl-schedule",
         "highlight": true
       },
       {
@@ -493,8 +493,8 @@
         "highlight": false
       },
       {
-        "title": "Our Mission",
-        "url": "/our-mission/",
+        "title": "Story",
+        "url": "/story/",
         "highlight": false
       }
     ],
