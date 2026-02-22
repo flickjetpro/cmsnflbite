@@ -1254,8 +1254,8 @@
     "back_to_top_shadow_color": "#000000"
   },
   "watch_settings": {
-    "supabase_url": "https://eaajjiysktakstaqholi.supabase.co",
-    "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVhYWpqaXlza3Rha3N0YXFob2xpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzEyMjU3MDMsImV4cCI6MjA4NjgwMTcwM30.-gfzxjtRT3_ACEuCnKnP4uw27ju7Qk3eIFo1sbdNz9Y",
+    "supabase_url": "https://udmafbjtiialnjqtozgu.supabase.co",
+    "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVkbWFmYmp0aWlhbG5qcXRvemd1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE3ODEwNTgsImV4cCI6MjA4NzM1NzA1OH0._yNPXL7E481MLSYPYUobcdnF3iaSsO_2HC0iOd-GSX8",
     "discord_server_id": "1422384816472457288",
     "meta_title": "{{HOME}} vs {{AWAY}} Live Stream – {{LEAGUE}} {{SPORT}} | HD Coverage on {{SITE_NAME}}",
     "meta_desc": "{{HOME}} vs {{AWAY}} live in the {{LEAGUE}} on {{DATE}} at {{TIME}}. Stream HD {{SPORT}} coverage on {{SITE_NAME}} with fast-loading, mobile-friendly access and real-time match updates.",
