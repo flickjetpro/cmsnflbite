@@ -1828,7 +1828,28 @@
         "West Indies": "assets/logos/upstreams/west-indies.webp",
         "Energa MKS Kalisz": "assets/logos/upstreams/energa-mks-kalisz.webp",
         "Gwardia Opole": "assets/logos/upstreams/gwardia-opole.webp",
-        "Morrazo Cangas": "assets/logos/upstreams/morrazo-cangas.webp"
+        "Morrazo Cangas": "assets/logos/upstreams/morrazo-cangas.webp",
+        "Omonia Aradippou": "assets/logos/upstreams/omonia-aradippou.webp",
+        "AEK Larnaca": "assets/logos/upstreams/aek-larnaca.webp",
+        "Vik. Plzen": "assets/logos/upstreams/vik-plzen.webp",
+        "Sparta Prague": "assets/logos/upstreams/sparta-prague.webp",
+        "SV Zulte Waregem": "assets/logos/upstreams/sv-zulte-waregem.webp",
+        "RSC Anderlecht": "assets/logos/upstreams/rsc-anderlecht.webp",
+        "Bodrum FK": "assets/logos/upstreams/bodrum-fk.webp",
+        "Manisa FK": "assets/logos/upstreams/manisa-fk.webp",
+        "Sevilla FC": "assets/logos/upstreams/sevilla-fc.webp",
+        "Club Atl\u00e9tico de Madrid": "assets/logos/upstreams/club-atl\u00e9tico-de-madrid.webp",
+        "Bagdala (W)": "assets/logos/upstreams/bagdala-w.webp",
+        "Maks Kasnikowski": "assets/logos/upstreams/maks-kasnikowski.webp",
+        "Egor Agafonov": "assets/logos/upstreams/egor-agafonov.webp",
+        "Tung-Lin Wu": "assets/logos/upstreams/tung-lin-wu.webp",
+        "Digvijay Pratap Singh": "assets/logos/upstreams/digvijay-pratap-singh.webp",
+        "Ishaque Eqbal": "assets/logos/upstreams/ishaque-eqbal.webp",
+        "Moksh Puri": "assets/logos/upstreams/moksh-puri.webp",
+        "Abhishek Bastola": "assets/logos/upstreams/abhishek-bastola.webp",
+        "Tarun Karra": "assets/logos/upstreams/tarun-karra.webp",
+        "US Arlequins Perpignanais": "assets/logos/upstreams/us-arlequins-perpignanais.webp",
+        "Section Paloise": "assets/logos/upstreams/section-paloise.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2039,6 +2060,13 @@
         "Acapulco, Mexico, Qualifying": "assets/logos/leagues/acapulco-mexico-qualifying.webp",
         "Santiago, Chile, Qualifying": "assets/logos/leagues/santiago-chile-qualifying.webp",
         "Santiago, Chile": "assets/logos/leagues/santiago-chile.webp",
-        "ICC Men's T20 World Cup, Super 8, Group 1": "assets/logos/leagues/icc-mens-t20-world-cup-super-8-group-1.webp"
+        "ICC Men's T20 World Cup, Super 8, Group 1": "assets/logos/leagues/icc-mens-t20-world-cup-super-8-group-1.webp",
+        "1st Division": "assets/logos/leagues/1st-division.webp",
+        "1. Liga": "assets/logos/leagues/1-liga.webp",
+        "1. Lig": "assets/logos/leagues/1-lig.webp",
+        "Liga F Moeve": "assets/logos/leagues/liga-f-moeve.webp",
+        "Pune, India, Qualifying": "assets/logos/leagues/pune-india-qualifying.webp",
+        "France - Top 14": "assets/logos/leagues/france-top-14.webp",
+        "Darts": "assets/logos/leagues/darts.webp"
     }
 }
