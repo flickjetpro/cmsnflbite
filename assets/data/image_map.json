@@ -2333,7 +2333,11 @@
         "Sean Hodkin": "assets/logos/upstreams/sean-hodkin.webp",
         "Ramiro Amarilla": "assets/logos/upstreams/ramiro-amarilla.webp",
         "Inter Kashi FC": "assets/logos/upstreams/inter-kashi-fc.webp",
-        "Odisha FC": "assets/logos/upstreams/odisha-fc.webp"
+        "Odisha FC": "assets/logos/upstreams/odisha-fc.webp",
+        "Stephen Maguire": "assets/logos/upstreams/stephen-maguire.webp",
+        "Ricky Walden": "assets/logos/upstreams/ricky-walden.webp",
+        "Jiang Jun": "assets/logos/upstreams/jiang-jun.webp",
+        "Zizins A.": "assets/logos/upstreams/zizins-a.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2605,6 +2609,7 @@
         "Merida, Mexico": "assets/logos/leagues/merida-mexico.webp",
         "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
         "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
-        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp"
+        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp",
+        "Welsh Open 2026": "assets/logos/leagues/welsh-open-2026.webp"
     }
 }
