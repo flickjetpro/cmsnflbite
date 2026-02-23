@@ -2271,7 +2271,18 @@
         "Arjun Prabhakar": "assets/logos/upstreams/arjun-prabhakar.webp",
         "Rahul Sachdev": "assets/logos/upstreams/rahul-sachdev.webp",
         "Mohamed Nazim Makhlouf": "assets/logos/upstreams/mohamed-nazim-makhlouf.webp",
-        "Diego Fernandez Flores": "assets/logos/upstreams/diego-fernandez-flores.webp"
+        "Diego Fernandez Flores": "assets/logos/upstreams/diego-fernandez-flores.webp",
+        "Guarani": "assets/logos/upstreams/guarani.webp",
+        "PSIM Yogyakarta": "assets/logos/upstreams/psim-yogyakarta.webp",
+        "Bali United FC": "assets/logos/upstreams/bali-united-fc.webp",
+        "Lucas Nunez": "assets/logos/upstreams/lucas-nunez.webp",
+        "Zachary Cohen": "assets/logos/upstreams/zachary-cohen.webp",
+        "Enzo Rimoli": "assets/logos/upstreams/enzo-rimoli.webp",
+        "Lautaro Agustin Falabella": "assets/logos/upstreams/lautaro-agustin-falabella.webp",
+        "Francisco Tomas Geschwind": "assets/logos/upstreams/francisco-tomas-geschwind.webp",
+        "Tymur Bieldiugin": "assets/logos/upstreams/tymur-bieldiugin.webp",
+        "Sofya Lansere": "assets/logos/upstreams/sofya-lansere.webp",
+        "Silvia Husarova": "assets/logos/upstreams/silvia-husarova.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2540,6 +2551,8 @@
         "Welsh Open": "assets/logos/leagues/welsh-open.webp",
         "ATP Acapulco": "assets/logos/leagues/atp-acapulco.webp",
         "ATP Dubai": "assets/logos/leagues/atp-dubai.webp",
-        "Merida, Mexico": "assets/logos/leagues/merida-mexico.webp"
+        "Merida, Mexico": "assets/logos/leagues/merida-mexico.webp",
+        "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
+        "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp"
     }
 }
