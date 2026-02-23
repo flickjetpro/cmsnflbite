@@ -2452,7 +2452,16 @@
         "Juan Bautista Torres": "assets/logos/upstreams/juan-bautista-torres.webp",
         "Gonzalo Bueno": "assets/logos/upstreams/gonzalo-bueno.webp",
         "Santiago Rodriguez Taverna": "assets/logos/upstreams/santiago-rodriguez-taverna.webp",
-        "Nikolas Sanchez Izquierdo": "assets/logos/upstreams/nikolas-sanchez-izquierdo.webp"
+        "Nikolas Sanchez Izquierdo": "assets/logos/upstreams/nikolas-sanchez-izquierdo.webp",
+        "Smouha": "assets/logos/upstreams/smouha.webp",
+        "Al Ahly FC": "assets/logos/upstreams/al-ahly-fc.webp",
+        "Ismailia Electricity Club": "assets/logos/upstreams/ismailia-electricity-club.webp",
+        "Tala'ea El-Gaish": "assets/logos/upstreams/talaea-el-gaish.webp",
+        "El Gouna FC": "assets/logos/upstreams/el-gouna-fc.webp",
+        "Arab Contractors FC": "assets/logos/upstreams/arab-contractors-fc.webp",
+        "Guy Den Ouden": "assets/logos/upstreams/guy-den-ouden.webp",
+        "Genaro Alberto Olivieri": "assets/logos/upstreams/genaro-alberto-olivieri.webp",
+        "Pedro Sakamoto": "assets/logos/upstreams/pedro-sakamoto.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2734,6 +2743,9 @@
         "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp",
         "Championshipul CONCACAF U20 - Qualifiers": "assets/logos/leagues/championshipul-concacaf-u20-qualifiers.webp",
         "NB I": "assets/logos/leagues/nb-i.webp",
-        "Atp Dubai": "assets/logos/leagues/atp-dubai.webp"
+        "Atp Dubai": "assets/logos/leagues/atp-dubai.webp",
+        "English Women FA Cup": "assets/logos/leagues/english-women-fa-cup.webp",
+        "Egyptian Premier League": "assets/logos/leagues/egyptian-premier-league.webp",
+        "Tennis WTA": "assets/logos/leagues/tennis-wta.webp"
     }
 }
