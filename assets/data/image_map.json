@@ -2312,7 +2312,23 @@
         "Yuan Sijun": "assets/logos/upstreams/yuan-sijun.webp",
         "Julien Leclercq": "assets/logos/upstreams/julien-leclercq.webp",
         "Qaraba\u011f": "assets/logos/streamed/qaraba\u011f.webp",
-        "Olympiacos": "assets/logos/streamed/olympiacos.webp"
+        "Olympiacos": "assets/logos/streamed/olympiacos.webp",
+        "SC Farense U23": "assets/logos/upstreams/sc-farense-u23.webp",
+        "UD Leiria U23": "assets/logos/upstreams/ud-leiria-u23.webp",
+        "Rio Ave U23": "assets/logos/upstreams/rio-ave-u23.webp",
+        "Vizela U23": "assets/logos/upstreams/vizela-u23.webp",
+        "Vladislav Melnic": "assets/logos/upstreams/vladislav-melnic.webp",
+        "Daniel Batista": "assets/logos/upstreams/daniel-batista.webp",
+        "Gil Vicente U23": "assets/logos/upstreams/gil-vicente-u23.webp",
+        "Portimonense U23": "assets/logos/upstreams/portimonense-u23.webp",
+        "Spanish Town Police FC": "assets/logos/upstreams/spanish-town-police-fc.webp",
+        "Alejandro Turriziani Alvarez": "assets/logos/upstreams/alejandro-turriziani-alvarez.webp",
+        "Goncalo da Rosa Castro": "assets/logos/upstreams/goncalo-da-rosa-castro.webp",
+        "Diogo Marques": "assets/logos/upstreams/diogo-marques.webp",
+        "Rin Kojima": "assets/logos/upstreams/rin-kojima.webp",
+        "Alejandro Lopez Escribano": "assets/logos/upstreams/alejandro-lopez-escribano.webp",
+        "Barry Hawkins": "assets/logos/upstreams/barry-hawkins.webp",
+        "David Lilley": "assets/logos/upstreams/david-lilley.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2583,6 +2599,7 @@
         "ATP Dubai": "assets/logos/leagues/atp-dubai.webp",
         "Merida, Mexico": "assets/logos/leagues/merida-mexico.webp",
         "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
-        "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp"
+        "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
+        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp"
     }
 }
