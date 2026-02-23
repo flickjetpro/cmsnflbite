@@ -2073,7 +2073,24 @@
         "Jamie Mackenzie": "assets/logos/upstreams/jamie-mackenzie.webp",
         "Stefan Kostic": "assets/logos/upstreams/stefan-kostic.webp",
         "Inter San Carlos": "assets/logos/upstreams/inter-san-carlos.webp",
-        "Cofutpa": "assets/logos/upstreams/cofutpa.webp"
+        "Cofutpa": "assets/logos/upstreams/cofutpa.webp",
+        "Alycia Parks": "assets/logos/upstreams/alycia-parks.webp",
+        "Oksana Selekhmeteva": "assets/logos/upstreams/oksana-selekhmeteva.webp",
+        "Taylor Townsend": "assets/logos/upstreams/taylor-townsend.webp",
+        "Varvara Gracheva": "assets/logos/upstreams/varvara-gracheva.webp",
+        "Naiktha Bains": "assets/logos/upstreams/naiktha-bains.webp",
+        "Lucia Cortez Llorca": "assets/logos/upstreams/lucia-cortez-llorca.webp",
+        "Maria Martinez Vaquero": "assets/logos/upstreams/maria-martinez-vaquero.webp",
+        "Deborah Chiesa": "assets/logos/upstreams/deborah-chiesa.webp",
+        "Mary Lewis": "assets/logos/upstreams/mary-lewis.webp",
+        "Emily Seibold": "assets/logos/upstreams/emily-seibold.webp",
+        "Beatrise Zeltina": "assets/logos/upstreams/beatrise-zeltina.webp",
+        "Katie Volynets": "assets/logos/upstreams/katie-volynets.webp",
+        "Anna Bondar": "assets/logos/upstreams/anna-bondar.webp",
+        "Kamilla Rakhimova": "assets/logos/upstreams/kamilla-rakhimova.webp",
+        "Xinyu Wang": "assets/logos/upstreams/xinyu-wang.webp",
+        "Elena Malygina": "assets/logos/upstreams/elena-malygina.webp",
+        "Ana Konjuh": "assets/logos/upstreams/ana-konjuh.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2331,6 +2348,7 @@
         "Chile Liga de Primera": "assets/logos/leagues/chile-liga-de-primera.webp",
         "Ukraine - Premier League": "assets/logos/leagues/ukraine-premier-league.webp",
         "National League": "assets/logos/leagues/national-league.webp",
-        "Tennis ATP": "assets/logos/leagues/tennis-atp.webp"
+        "Tennis ATP": "assets/logos/leagues/tennis-atp.webp",
+        "Austin, USA": "assets/logos/leagues/austin-usa.webp"
     }
 }
