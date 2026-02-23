@@ -2405,7 +2405,8 @@
         "Jenson Brooksby": "assets/logos/upstreams/jenson-brooksby.webp",
         "Alexander Bublik": "assets/logos/upstreams/alexander-bublik.webp",
         "Tallon Griekspoor": "assets/logos/upstreams/tallon-griekspoor.webp",
-        "Kamil Majchrzak": "assets/logos/upstreams/kamil-majchrzak.webp"
+        "Kamil Majchrzak": "assets/logos/upstreams/kamil-majchrzak.webp",
+        "Dominica U20": "assets/logos/upstreams/dominica-u20.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2684,6 +2685,7 @@
         "Sweden Svenska Cupen": "assets/logos/leagues/sweden-svenska-cupen.webp",
         "Denmark SuperLiga": "assets/logos/leagues/denmark-superliga.webp",
         "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp",
-        "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp"
+        "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp",
+        "Championshipul CONCACAF U20 - Qualifiers": "assets/logos/leagues/championshipul-concacaf-u20-qualifiers.webp"
     }
 }
