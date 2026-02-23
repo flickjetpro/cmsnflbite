@@ -2338,7 +2338,10 @@
         "Ricky Walden": "assets/logos/upstreams/ricky-walden.webp",
         "Jiang Jun": "assets/logos/upstreams/jiang-jun.webp",
         "Zizins A.": "assets/logos/upstreams/zizins-a.webp",
-        "Vafaei Hossein": "assets/logos/upstreams/vafaei-hossein.webp"
+        "Vafaei Hossein": "assets/logos/upstreams/vafaei-hossein.webp",
+        "East End Lions FC": "assets/logos/upstreams/east-end-lions-fc.webp",
+        "Keerthivassan Suresh": "assets/logos/upstreams/keerthivassan-suresh.webp",
+        "Grigoriy Lomakin": "assets/logos/upstreams/grigoriy-lomakin.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2611,6 +2614,7 @@
         "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
         "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
         "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp",
-        "Welsh Open 2026": "assets/logos/leagues/welsh-open-2026.webp"
+        "Welsh Open 2026": "assets/logos/leagues/welsh-open-2026.webp",
+        "Sierra Leone - Premier League": "assets/logos/leagues/sierra-leone-premier-league.webp"
     }
 }
