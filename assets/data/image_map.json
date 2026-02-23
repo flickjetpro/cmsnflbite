@@ -2398,7 +2398,14 @@
         "Valentin Royer": "assets/logos/upstreams/valentin-royer.webp",
         "Allister Carter": "assets/logos/upstreams/allister-carter.webp",
         "Anthony McGill": "assets/logos/upstreams/anthony-mcgill.webp",
-        "David Grace": "assets/logos/upstreams/david-grace.webp"
+        "David Grace": "assets/logos/upstreams/david-grace.webp",
+        "Daniil Medvedev": "assets/logos/upstreams/daniil-medvedev.webp",
+        "Juncheng Shang": "assets/logos/upstreams/juncheng-shang.webp",
+        "Denis Shapovalov": "assets/logos/upstreams/denis-shapovalov.webp",
+        "Jenson Brooksby": "assets/logos/upstreams/jenson-brooksby.webp",
+        "Alexander Bublik": "assets/logos/upstreams/alexander-bublik.webp",
+        "Tallon Griekspoor": "assets/logos/upstreams/tallon-griekspoor.webp",
+        "Kamil Majchrzak": "assets/logos/upstreams/kamil-majchrzak.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2676,6 +2683,7 @@
         "Poland Division 1": "assets/logos/leagues/poland-division-1.webp",
         "Sweden Svenska Cupen": "assets/logos/leagues/sweden-svenska-cupen.webp",
         "Denmark SuperLiga": "assets/logos/leagues/denmark-superliga.webp",
-        "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp"
+        "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp",
+        "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp"
     }
 }
