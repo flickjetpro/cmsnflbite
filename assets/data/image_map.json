@@ -2461,7 +2461,14 @@
         "Arab Contractors FC": "assets/logos/upstreams/arab-contractors-fc.webp",
         "Guy Den Ouden": "assets/logos/upstreams/guy-den-ouden.webp",
         "Genaro Alberto Olivieri": "assets/logos/upstreams/genaro-alberto-olivieri.webp",
-        "Pedro Sakamoto": "assets/logos/upstreams/pedro-sakamoto.webp"
+        "Pedro Sakamoto": "assets/logos/upstreams/pedro-sakamoto.webp",
+        "Antigua&Barbuda U20": "assets/logos/upstreams/antiguabarbuda-u20.webp",
+        "Saint Lucia U20": "assets/logos/upstreams/saint-lucia-u20.webp",
+        "Inter Milano": "assets/logos/upstreams/inter-milano.webp",
+        "Deportivo La Guaira": "assets/logos/upstreams/deportivo-la-guaira.webp",
+        "Tom Ford": "assets/logos/upstreams/tom-ford.webp",
+        "Neil Robertson": "assets/logos/upstreams/neil-robertson.webp",
+        "Michal Szubarczyk": "assets/logos/upstreams/michal-szubarczyk.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2746,6 +2753,7 @@
         "Atp Dubai": "assets/logos/leagues/atp-dubai.webp",
         "English Women FA Cup": "assets/logos/leagues/english-women-fa-cup.webp",
         "Egyptian Premier League": "assets/logos/leagues/egyptian-premier-league.webp",
-        "Tennis WTA": "assets/logos/leagues/tennis-wta.webp"
+        "Tennis WTA": "assets/logos/leagues/tennis-wta.webp",
+        "UEFA Champions League": "assets/logos/leagues/uefa-champions-league.webp"
     }
 }
