@@ -2969,7 +2969,14 @@
         "Olympiacos --- CN HD": "assets/logos/upstreams/olympiacos-cn-hd.webp",
         "Salford": "assets/logos/upstreams/salford.webp",
         "Shrewsbury": "assets/logos/upstreams/shrewsbury.webp",
-        "Jana Bojovic": "assets/logos/upstreams/jana-bojovic.webp"
+        "Jana Bojovic": "assets/logos/upstreams/jana-bojovic.webp",
+        "Washington": "assets/logos/streamed/washington.webp",
+        "La Salle": "assets/logos/streamed/la-salle.webp",
+        "George Washington": "assets/logos/streamed/george-washington.webp",
+        "Dayton": "assets/logos/streamed/dayton.webp",
+        "Saint Louis": "assets/logos/streamed/saint-louis.webp",
+        "Oklahoma State": "assets/logos/streamed/oklahoma-state.webp",
+        "West Virginia": "assets/logos/streamed/west-virginia.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
