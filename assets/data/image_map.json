@@ -2571,7 +2571,14 @@
         "Hikaru Sato": "assets/logos/upstreams/hikaru-sato.webp",
         "Ruien Zhang": "assets/logos/upstreams/ruien-zhang.webp",
         "Miho Kuramochi": "assets/logos/upstreams/miho-kuramochi.webp",
-        "Sri Lanka": "assets/logos/upstreams/sri-lanka.webp"
+        "Sri Lanka": "assets/logos/upstreams/sri-lanka.webp",
+        "Moerani Bouzige": "assets/logos/upstreams/moerani-bouzige.webp",
+        "Jesse Delaney": "assets/logos/upstreams/jesse-delaney.webp",
+        "Taisei Ichikawa": "assets/logos/upstreams/taisei-ichikawa.webp",
+        "Cruz Hewitt": "assets/logos/upstreams/cruz-hewitt.webp",
+        "HBC Nantes": "assets/logos/upstreams/hbc-nantes.webp",
+        "Taiyo Yamanaka": "assets/logos/upstreams/taiyo-yamanaka.webp",
+        "Sarah Rokusek": "assets/logos/upstreams/sarah-rokusek.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2866,6 +2873,7 @@
         "1. NLB Liga": "assets/logos/leagues/1-nlb-liga.webp",
         "NHL": "assets/logos/leagues/nhl.webp",
         "Brasileir\u00e3o Betano": "assets/logos/leagues/brasileir\u00e3o-betano.webp",
-        "1. SRL": "assets/logos/leagues/1-srl.webp"
+        "1. SRL": "assets/logos/leagues/1-srl.webp",
+        "EHF Champions League, Group A": "assets/logos/leagues/ehf-champions-league-group-a.webp"
     }
 }
