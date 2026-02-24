@@ -2953,7 +2953,23 @@
         "Thomas Fancutt": "assets/logos/upstreams/thomas-fancutt.webp",
         "Sam Ryan Ziegann": "assets/logos/upstreams/sam-ryan-ziegann.webp",
         "Shinji Hazawa": "assets/logos/upstreams/shinji-hazawa.webp",
-        "Anagennisi Germasogeias (W)": "assets/logos/upstreams/anagennisi-germasogeias-w.webp"
+        "Anagennisi Germasogeias (W)": "assets/logos/upstreams/anagennisi-germasogeias-w.webp",
+        "Burton": "assets/logos/upstreams/burton.webp",
+        "Rotherham": "assets/logos/upstreams/rotherham.webp",
+        "West Bromwich": "assets/logos/upstreams/west-bromwich.webp",
+        "Charlton": "assets/logos/upstreams/charlton.webp",
+        "Ceramica Cleopatra": "assets/logos/upstreams/ceramica-cleopatra.webp",
+        "Ismaily": "assets/logos/upstreams/ismaily.webp",
+        "Ghazl El Mahalla FC": "assets/logos/upstreams/ghazl-el-mahalla-fc.webp",
+        "Pyramids FC": "assets/logos/upstreams/pyramids-fc.webp",
+        "Haras El Hodoud": "assets/logos/upstreams/haras-el-hodoud.webp",
+        "ENPPI": "assets/logos/upstreams/enppi.webp",
+        "ZED FC": "assets/logos/upstreams/zed-fc.webp",
+        "Zamalek SC": "assets/logos/upstreams/zamalek-sc.webp",
+        "Olympiacos --- CN HD": "assets/logos/upstreams/olympiacos-cn-hd.webp",
+        "Salford": "assets/logos/upstreams/salford.webp",
+        "Shrewsbury": "assets/logos/upstreams/shrewsbury.webp",
+        "Jana Bojovic": "assets/logos/upstreams/jana-bojovic.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -3277,6 +3293,9 @@
         "ATP - Dubai (EUA)": "assets/logos/leagues/atp-dubai-eua.webp",
         "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp",
         "Belgium Challenge Pro League": "assets/logos/leagues/belgium-challenge-pro-league.webp",
-        "English EFL Trohpy": "assets/logos/leagues/english-efl-trohpy.webp"
+        "English EFL Trohpy": "assets/logos/leagues/english-efl-trohpy.webp",
+        "Scottish Challenge Cup": "assets/logos/leagues/scottish-challenge-cup.webp",
+        "English League One": "assets/logos/leagues/english-league-one.webp",
+        "English Championship": "assets/logos/leagues/english-championship.webp"
     }
 }
