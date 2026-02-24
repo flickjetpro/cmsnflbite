@@ -2942,7 +2942,18 @@
         "Torreense U23": "assets/logos/upstreams/torreense-u23.webp",
         "Sumqayit": "assets/logos/upstreams/sumqayit.webp",
         "Daniil Glinka": "assets/logos/upstreams/daniil-glinka.webp",
-        "Mika Brunold": "assets/logos/upstreams/mika-brunold.webp"
+        "Mika Brunold": "assets/logos/upstreams/mika-brunold.webp",
+        "Gent U23": "assets/logos/upstreams/gent-u23.webp",
+        "OC Charleroi": "assets/logos/upstreams/oc-charleroi.webp",
+        "Colin Sinclair": "assets/logos/upstreams/colin-sinclair.webp",
+        "Keisuke Saitoh": "assets/logos/upstreams/keisuke-saitoh.webp",
+        "Matthew Dellavedova": "assets/logos/upstreams/matthew-dellavedova.webp",
+        "Ajeet Rai": "assets/logos/upstreams/ajeet-rai.webp",
+        "Oliver Anderson": "assets/logos/upstreams/oliver-anderson.webp",
+        "Thomas Fancutt": "assets/logos/upstreams/thomas-fancutt.webp",
+        "Sam Ryan Ziegann": "assets/logos/upstreams/sam-ryan-ziegann.webp",
+        "Shinji Hazawa": "assets/logos/upstreams/shinji-hazawa.webp",
+        "Anagennisi Germasogeias (W)": "assets/logos/upstreams/anagennisi-germasogeias-w.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -3264,6 +3275,8 @@
         "German Open - Double": "assets/logos/leagues/german-open-double.webp",
         "MLB Spring Training": "assets/logos/leagues/mlb-spring-training.webp",
         "ATP - Dubai (EUA)": "assets/logos/leagues/atp-dubai-eua.webp",
-        "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp"
+        "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp",
+        "Belgium Challenge Pro League": "assets/logos/leagues/belgium-challenge-pro-league.webp",
+        "English EFL Trohpy": "assets/logos/leagues/english-efl-trohpy.webp"
     }
 }
