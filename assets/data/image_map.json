@@ -2937,7 +2937,12 @@
         "China": "assets/logos/streamed/china.webp",
         "Chinese Taipei": "assets/logos/streamed/chinese-taipei.webp",
         "South Korea": "assets/logos/streamed/south-korea.webp",
-        "Philippines": "assets/logos/streamed/philippines.webp"
+        "Philippines": "assets/logos/streamed/philippines.webp",
+        "SC Braga U23": "assets/logos/upstreams/sc-braga-u23.webp",
+        "Torreense U23": "assets/logos/upstreams/torreense-u23.webp",
+        "Sumqayit": "assets/logos/upstreams/sumqayit.webp",
+        "Daniil Glinka": "assets/logos/upstreams/daniil-glinka.webp",
+        "Mika Brunold": "assets/logos/upstreams/mika-brunold.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -3258,6 +3263,7 @@
         "2. Mu\u0161ka Liga": "assets/logos/leagues/2-mu\u0161ka-liga.webp",
         "German Open - Double": "assets/logos/leagues/german-open-double.webp",
         "MLB Spring Training": "assets/logos/leagues/mlb-spring-training.webp",
-        "ATP - Dubai (EUA)": "assets/logos/leagues/atp-dubai-eua.webp"
+        "ATP - Dubai (EUA)": "assets/logos/leagues/atp-dubai-eua.webp",
+        "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp"
     }
 }
