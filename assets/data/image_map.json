@@ -2862,7 +2862,23 @@
         "Brandy Walker": "assets/logos/upstreams/brandy-walker.webp",
         "Sonja Zhiyenbayeva": "assets/logos/upstreams/sonja-zhiyenbayeva.webp",
         "Eryn Cayetano": "assets/logos/upstreams/eryn-cayetano.webp",
-        "Luca Nardi": "assets/logos/upstreams/luca-nardi.webp"
+        "Luca Nardi": "assets/logos/upstreams/luca-nardi.webp",
+        "Jackson Page": "assets/logos/upstreams/jackson-page.webp",
+        "Luca Brecel": "assets/logos/upstreams/luca-brecel.webp",
+        "Jimmy Robertson": "assets/logos/upstreams/jimmy-robertson.webp",
+        "Stan Moody": "assets/logos/upstreams/stan-moody.webp",
+        "Wilson G.": "assets/logos/upstreams/wilson-g.webp",
+        "Sarkhosh Amir": "assets/logos/upstreams/sarkhosh-amir.webp",
+        "Zhang Anda": "assets/logos/upstreams/zhang-anda.webp",
+        "Mitchell Mann": "assets/logos/upstreams/mitchell-mann.webp",
+        "Indy Fuel": "assets/logos/upstreams/indy-fuel.webp",
+        "Kalamazoo Wings": "assets/logos/upstreams/kalamazoo-wings.webp",
+        "Elliot Slessor": "assets/logos/upstreams/elliot-slessor.webp",
+        "Sam Craigie": "assets/logos/upstreams/sam-craigie.webp",
+        "Kyren Wilson": "assets/logos/upstreams/kyren-wilson.webp",
+        "Liu Hongyu": "assets/logos/upstreams/liu-hongyu.webp",
+        "Stuart Bingham": "assets/logos/upstreams/stuart-bingham.webp",
+        "Yang Gao": "assets/logos/upstreams/yang-gao.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -3182,6 +3198,7 @@
         "NBL, West": "assets/logos/leagues/nbl-west.webp",
         "2. Mu\u0161ka Liga": "assets/logos/leagues/2-mu\u0161ka-liga.webp",
         "German Open - Double": "assets/logos/leagues/german-open-double.webp",
-        "MLB Spring Training": "assets/logos/leagues/mlb-spring-training.webp"
+        "MLB Spring Training": "assets/logos/leagues/mlb-spring-training.webp",
+        "ATP - Dubai (EUA)": "assets/logos/leagues/atp-dubai-eua.webp"
     }
 }
