@@ -2733,7 +2733,9 @@
         "John Higgins": "assets/logos/upstreams/john-higgins.webp",
         "Chris Wakelin": "assets/logos/upstreams/chris-wakelin.webp",
         "Liam Pullen": "assets/logos/upstreams/liam-pullen.webp",
-        "Doncaster": "assets/logos/streamed/doncaster.webp"
+        "Doncaster": "assets/logos/streamed/doncaster.webp",
+        "England Cricket": "assets/logos/streamed/england-cricket.webp",
+        "Pakistan Cricket": "assets/logos/streamed/pakistan-cricket.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
