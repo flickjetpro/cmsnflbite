@@ -2554,7 +2554,24 @@
         "\u017dilina Youth": "assets/logos/streamed/\u017eilina-youth.webp",
         "Club Brugge Youth": "assets/logos/streamed/club-brugge-youth.webp",
         "ACT Meteors": "assets/logos/upstreams/act-meteors.webp",
-        "South Australian Scorpions": "assets/logos/upstreams/south-australian-scorpions.webp"
+        "South Australian Scorpions": "assets/logos/upstreams/south-australian-scorpions.webp",
+        "Famalic\u00e3o U23": "assets/logos/upstreams/famalic\u00e3o-u23.webp",
+        "PSG": "assets/logos/upstreams/psg.webp",
+        "Monique Barry": "assets/logos/upstreams/monique-barry.webp",
+        "Vaidehi Chaudhari": "assets/logos/upstreams/vaidehi-chaudhari.webp",
+        "Boston College": "assets/logos/upstreams/boston-college.webp",
+        "Wake Forest": "assets/logos/upstreams/wake-forest.webp",
+        "Bar\u00e7a Basket": "assets/logos/upstreams/bar\u00e7a-basket.webp",
+        "Al-Najma SC": "assets/logos/upstreams/al-najma-sc.webp",
+        "RK Trimo Trebnje": "assets/logos/upstreams/rk-trimo-trebnje.webp",
+        "MRK Krka": "assets/logos/upstreams/mrk-krka.webp",
+        "Ondrej Hujo": "assets/logos/upstreams/ondrej-hujo.webp",
+        "Xenia Bandurowska": "assets/logos/upstreams/xenia-bandurowska.webp",
+        "Elena Micic": "assets/logos/upstreams/elena-micic.webp",
+        "Hikaru Sato": "assets/logos/upstreams/hikaru-sato.webp",
+        "Ruien Zhang": "assets/logos/upstreams/ruien-zhang.webp",
+        "Miho Kuramochi": "assets/logos/upstreams/miho-kuramochi.webp",
+        "Sri Lanka": "assets/logos/upstreams/sri-lanka.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -2847,6 +2864,8 @@
         "S\u00e9rie A": "assets/logos/leagues/s\u00e9rie-a.webp",
         "TVF Efeler Ligi": "assets/logos/leagues/tvf-efeler-ligi.webp",
         "1. NLB Liga": "assets/logos/leagues/1-nlb-liga.webp",
-        "NHL": "assets/logos/leagues/nhl.webp"
+        "NHL": "assets/logos/leagues/nhl.webp",
+        "Brasileir\u00e3o Betano": "assets/logos/leagues/brasileir\u00e3o-betano.webp",
+        "1. SRL": "assets/logos/leagues/1-srl.webp"
     }
 }
