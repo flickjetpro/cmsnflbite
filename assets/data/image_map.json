@@ -3569,7 +3569,9 @@
         "Utah State": "assets/logos/streamed/utah-state.webp",
         "Republica Dominicana U20": "assets/logos/upstreams/republica-dominicana-u20.webp",
         "Grenada U20": "assets/logos/upstreams/grenada-u20.webp",
-        "Sebasti\u00e1n B\u00e1ez": "assets/logos/upstreams/sebasti\u00e1n-b\u00e1ez.webp"
+        "Sebasti\u00e1n B\u00e1ez": "assets/logos/upstreams/sebasti\u00e1n-b\u00e1ez.webp",
+        "Dep Riestra": "assets/logos/upstreams/dep-riestra.webp",
+        "Sara Gvozdenovic": "assets/logos/upstreams/sara-gvozdenovic.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -3938,6 +3940,7 @@
         "Cup": "assets/logos/leagues/cup.webp",
         "Club Friendly Games": "assets/logos/leagues/club-friendly-games.webp",
         "English Premier League U18": "assets/logos/leagues/english-premier-league-u18.webp",
-        "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp"
+        "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp",
+        "Brazil Serie A": "assets/logos/leagues/brazil-serie-a.webp"
     }
 }
