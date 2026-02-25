@@ -3540,7 +3540,15 @@
         "Iran": "assets/logos/streamed/iran.webp",
         "Jordan": "assets/logos/streamed/jordan.webp",
         "Hapoel Tel Aviv BC": "assets/logos/streamed/hapoel-tel-aviv-bc.webp",
-        "Dominican Republic": "assets/logos/streamed/dominican-republic.webp"
+        "Dominican Republic": "assets/logos/streamed/dominican-republic.webp",
+        "Vojvodina": "assets/logos/upstreams/vojvodina.webp",
+        "\u017dKK Crvena zvezda": "assets/logos/upstreams/\u017ekk-crvena-zvezda.webp",
+        "KTP Basket Kotka II": "assets/logos/upstreams/ktp-basket-kotka-ii.webp",
+        "Pyrinto Akatemia B": "assets/logos/upstreams/pyrinto-akatemia-b.webp",
+        "Bertanu Valmieras BS": "assets/logos/upstreams/bertanu-valmieras-bs.webp",
+        "Jekabpils BA": "assets/logos/upstreams/jekabpils-ba.webp",
+        "BK Ogre/Bs Ogre": "assets/logos/upstreams/bk-ogrebs-ogre.webp",
+        "Rbs Rigas Juniori": "assets/logos/upstreams/rbs-rigas-juniori.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
