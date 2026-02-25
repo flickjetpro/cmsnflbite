@@ -3461,7 +3461,25 @@
         "Ema Burgi\u0107": "assets/logos/upstreams/ema-burgi\u0107.webp",
         "Nicole Weng": "assets/logos/upstreams/nicole-weng.webp",
         "Zhou Yuelong": "assets/logos/upstreams/zhou-yuelong.webp",
-        "Novo Vrijeme Makarska": "assets/logos/upstreams/novo-vrijeme-makarska.webp"
+        "Novo Vrijeme Makarska": "assets/logos/upstreams/novo-vrijeme-makarska.webp",
+        "Melaka FC": "assets/logos/upstreams/melaka-fc.webp",
+        "Johor DT": "assets/logos/upstreams/johor-dt.webp",
+        "Haugesund": "assets/logos/upstreams/haugesund.webp",
+        "HamKam": "assets/logos/upstreams/hamkam.webp",
+        "FK \u017deljezni\u010dar": "assets/logos/upstreams/fk-\u017eeljezni\u010dar.webp",
+        "FK Sloga Doboj": "assets/logos/upstreams/fk-sloga-doboj.webp",
+        "Kristiansund BK": "assets/logos/upstreams/kristiansund-bk.webp",
+        "Sarpsborg 08": "assets/logos/upstreams/sarpsborg-08.webp",
+        "Manchester Utd U18": "assets/logos/upstreams/manchester-utd-u18.webp",
+        "Derby U18": "assets/logos/upstreams/derby-u18.webp",
+        "Young Africans": "assets/logos/upstreams/young-africans.webp",
+        "JKT Tanzania": "assets/logos/upstreams/jkt-tanzania.webp",
+        "Mathare Utd": "assets/logos/upstreams/mathare-utd.webp",
+        "Shabana": "assets/logos/upstreams/shabana.webp",
+        "Franco Emanuel Egea": "assets/logos/upstreams/franco-emanuel-egea.webp",
+        "Ignacio Calderon": "assets/logos/upstreams/ignacio-calderon.webp",
+        "Andres Gaston Tagliani": "assets/logos/upstreams/andres-gaston-tagliani.webp",
+        "Robertson N.": "assets/logos/upstreams/robertson-n.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -3825,6 +3843,11 @@
         "AFL": "assets/logos/leagues/afl.webp",
         "Austria - ICE League": "assets/logos/leagues/austria-ice-league.webp",
         "WTA Merida Open": "assets/logos/leagues/wta-merida-open.webp",
-        "Alps Hockey League, Championship Round": "assets/logos/leagues/alps-hockey-league-championship-round.webp"
+        "Alps Hockey League, Championship Round": "assets/logos/leagues/alps-hockey-league-championship-round.webp",
+        "Malaysia Cup": "assets/logos/leagues/malaysia-cup.webp",
+        "Cup": "assets/logos/leagues/cup.webp",
+        "Club Friendly Games": "assets/logos/leagues/club-friendly-games.webp",
+        "English Premier League U18": "assets/logos/leagues/english-premier-league-u18.webp",
+        "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp"
     }
 }
