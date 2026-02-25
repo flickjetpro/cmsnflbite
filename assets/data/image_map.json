@@ -3424,7 +3424,19 @@
         "Mpumalanga": "assets/logos/upstreams/mpumalanga.webp",
         "South Western Districts": "assets/logos/upstreams/south-western-districts.webp",
         "Sri Lanka Cricket": "assets/logos/streamed/sri-lanka-cricket.webp",
-        "New Zealand Cricket": "assets/logos/streamed/new-zealand-cricket.webp"
+        "New Zealand Cricket": "assets/logos/streamed/new-zealand-cricket.webp",
+        "Fehervar AV19": "assets/logos/upstreams/fehervar-av19.webp",
+        "RB Salzburg": "assets/logos/upstreams/rb-salzburg.webp",
+        "KAC Klagenfurt": "assets/logos/upstreams/kac-klagenfurt.webp",
+        "TWK Innsbruck": "assets/logos/upstreams/twk-innsbruck.webp",
+        "HC Pustertal": "assets/logos/upstreams/hc-pustertal.webp",
+        "Marie Bouzkova": "assets/logos/upstreams/marie-bouzkova.webp",
+        "Gimnasia Mendoza": "assets/logos/upstreams/gimnasia-mendoza.webp",
+        "Red Bull Hockey Juniors": "assets/logos/upstreams/red-bull-hockey-juniors.webp",
+        "KHL Sisak": "assets/logos/upstreams/khl-sisak.webp",
+        "Engineers Prague": "assets/logos/upstreams/engineers-prague.webp",
+        "Czu Farmers Prague": "assets/logos/upstreams/czu-farmers-prague.webp",
+        "Bianca Elena Barbulescu": "assets/logos/upstreams/bianca-elena-barbulescu.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -3785,6 +3797,9 @@
         "German Open": "assets/logos/leagues/german-open.webp",
         "Swiss Basketball League Women": "assets/logos/leagues/swiss-basketball-league-women.webp",
         "Zimbabwe Women in New Zealand, 3 T20I Series": "assets/logos/leagues/zimbabwe-women-in-new-zealand-3-t20i-series.webp",
-        "AFL": "assets/logos/leagues/afl.webp"
+        "AFL": "assets/logos/leagues/afl.webp",
+        "Austria - ICE League": "assets/logos/leagues/austria-ice-league.webp",
+        "WTA Merida Open": "assets/logos/leagues/wta-merida-open.webp",
+        "Alps Hockey League, Championship Round": "assets/logos/leagues/alps-hockey-league-championship-round.webp"
     }
 }
