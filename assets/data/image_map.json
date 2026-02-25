@@ -3094,7 +3094,13 @@
         "Zrinjski": "assets/logos/upstreams/zrinjski.webp",
         "Nottingham": "assets/logos/upstreams/nottingham.webp",
         "Angouleme": "assets/logos/upstreams/angouleme.webp",
-        "Carolina Hurricanes": "assets/logos/upstreams/carolina-hurricanes.webp"
+        "Carolina Hurricanes": "assets/logos/upstreams/carolina-hurricanes.webp",
+        "St Andrew Lions": "assets/logos/upstreams/st-andrew-lions.webp",
+        "Ellerton FC": "assets/logos/upstreams/ellerton-fc.webp",
+        "Monika Jirouskova": "assets/logos/upstreams/monika-jirouskova.webp",
+        "Vanja Gudelj": "assets/logos/upstreams/vanja-gudelj.webp",
+        "FC Goa": "assets/logos/upstreams/fc-goa.webp",
+        "SC Delhi": "assets/logos/upstreams/sc-delhi.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -3428,6 +3434,8 @@
         "Europa Conference League": "assets/logos/leagues/europa-conference-league.webp",
         "WNBL, Playoffs": "assets/logos/leagues/wnbl-playoffs.webp",
         "FIBA World Cup, Asian & Oceanian Qualifiers, Gr. A": "assets/logos/leagues/fiba-world-cup-asian-oceanian-qualifiers-gr-a.webp",
-        "Extreme Fighting Championship": "assets/logos/leagues/extreme-fighting-championship.webp"
+        "Extreme Fighting Championship": "assets/logos/leagues/extreme-fighting-championship.webp",
+        "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp",
+        "India - Super League": "assets/logos/leagues/india-super-league.webp"
     }
 }
