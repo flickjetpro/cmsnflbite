@@ -3538,7 +3538,9 @@
         "Iraq": "assets/logos/streamed/iraq.webp",
         "Syria": "assets/logos/streamed/syria.webp",
         "Iran": "assets/logos/streamed/iran.webp",
-        "Jordan": "assets/logos/streamed/jordan.webp"
+        "Jordan": "assets/logos/streamed/jordan.webp",
+        "Hapoel Tel Aviv BC": "assets/logos/streamed/hapoel-tel-aviv-bc.webp",
+        "Dominican Republic": "assets/logos/streamed/dominican-republic.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
