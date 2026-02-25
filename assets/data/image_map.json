@@ -3566,7 +3566,10 @@
         "Southern Methodist": "assets/logos/streamed/southern-methodist.webp",
         "Loyola Marymount": "assets/logos/streamed/loyola-marymount.webp",
         "San Diego State": "assets/logos/streamed/san-diego-state.webp",
-        "Utah State": "assets/logos/streamed/utah-state.webp"
+        "Utah State": "assets/logos/streamed/utah-state.webp",
+        "Republica Dominicana U20": "assets/logos/upstreams/republica-dominicana-u20.webp",
+        "Grenada U20": "assets/logos/upstreams/grenada-u20.webp",
+        "Sebasti\u00e1n B\u00e1ez": "assets/logos/upstreams/sebasti\u00e1n-b\u00e1ez.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
