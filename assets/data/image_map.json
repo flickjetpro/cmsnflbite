@@ -3831,7 +3831,14 @@
         "Bath": "assets/logos/streamed/bath.webp",
         "Saracens": "assets/logos/streamed/saracens.webp",
         "West Ham": "assets/logos/streamed/west-ham.webp",
-        "Estrela": "assets/logos/streamed/estrela.webp"
+        "Estrela": "assets/logos/streamed/estrela.webp",
+        "Latvia Basketball": "assets/logos/streamed/latvia-basketball.webp",
+        "Estonia Basketball": "assets/logos/streamed/estonia-basketball.webp",
+        "Saudi Arabia Basketball": "assets/logos/streamed/saudi-arabia-basketball.webp",
+        "Argentina": "assets/logos/streamed/argentina.webp",
+        "SV Elversberg": "assets/logos/streamed/sv-elversberg.webp",
+        "Grimsby": "assets/logos/streamed/grimsby.webp",
+        "Colchester": "assets/logos/streamed/colchester.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
