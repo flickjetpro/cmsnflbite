@@ -3738,7 +3738,11 @@
         "Wigan Warriors": "assets/logos/streamed/wigan-warriors.webp",
         "Aaron Bailey": "assets/logos/upstreams/aaron-bailey.webp",
         "Fountain Gate": "assets/logos/upstreams/fountain-gate.webp",
-        "TRA United": "assets/logos/upstreams/tra-united.webp"
+        "TRA United": "assets/logos/upstreams/tra-united.webp",
+        "Taylor Gruber": "assets/logos/upstreams/taylor-gruber.webp",
+        "Tampines Rovers": "assets/logos/upstreams/tampines-rovers.webp",
+        "KCB": "assets/logos/upstreams/kcb.webp",
+        "Leopards": "assets/logos/upstreams/leopards.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
