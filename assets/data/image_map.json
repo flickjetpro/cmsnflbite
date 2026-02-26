@@ -3838,7 +3838,9 @@
         "Argentina": "assets/logos/streamed/argentina.webp",
         "SV Elversberg": "assets/logos/streamed/sv-elversberg.webp",
         "Grimsby": "assets/logos/streamed/grimsby.webp",
-        "Colchester": "assets/logos/streamed/colchester.webp"
+        "Colchester": "assets/logos/streamed/colchester.webp",
+        "Florida Everblades": "assets/logos/upstreams/florida-everblades.webp",
+        "Orlando Solar Bears": "assets/logos/upstreams/orlando-solar-bears.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
