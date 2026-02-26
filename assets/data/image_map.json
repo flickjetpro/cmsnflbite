@@ -3849,7 +3849,15 @@
         "SK Sigma Olomouc": "assets/logos/upstreams/sk-sigma-olomouc.webp",
         "Leigh": "assets/logos/upstreams/leigh.webp",
         "SA XV Charente": "assets/logos/upstreams/sa-xv-charente.webp",
-        "Valence Romans Dr\u00f4me": "assets/logos/upstreams/valence-romans-dr\u00f4me.webp"
+        "Valence Romans Dr\u00f4me": "assets/logos/upstreams/valence-romans-dr\u00f4me.webp",
+        "Jacksonville State": "assets/logos/streamed/jacksonville-state.webp",
+        "Delaware": "assets/logos/streamed/delaware.webp",
+        "Temple": "assets/logos/streamed/temple.webp",
+        "Presbyterian": "assets/logos/streamed/presbyterian.webp",
+        "High Point": "assets/logos/streamed/high-point.webp",
+        "Sam Houston State": "assets/logos/streamed/sam-houston-state.webp",
+        "Florida International": "assets/logos/streamed/florida-international.webp",
+        "Wichita State": "assets/logos/streamed/wichita-state.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
