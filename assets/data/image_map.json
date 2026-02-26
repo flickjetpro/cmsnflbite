@@ -3715,7 +3715,14 @@
         "Hockey Unterland Cavaliers": "assets/logos/upstreams/hockey-unterland-cavaliers.webp",
         "HC Merano": "assets/logos/upstreams/hc-merano.webp",
         "South Africa Emerging": "assets/logos/upstreams/south-africa-emerging.webp",
-        "Limpopo": "assets/logos/upstreams/limpopo.webp"
+        "Limpopo": "assets/logos/upstreams/limpopo.webp",
+        "Carol Young Suh Lee": "assets/logos/upstreams/carol-young-suh-lee.webp",
+        "Ann Li": "assets/logos/upstreams/ann-li.webp",
+        "Mario Gonzalez Fernandez": "assets/logos/upstreams/mario-gonzalez-fernandez.webp",
+        "Oscar Weightman": "assets/logos/upstreams/oscar-weightman.webp",
+        "Sapfo Sakellaridi": "assets/logos/upstreams/sapfo-sakellaridi.webp",
+        "Noemi Basiletti": "assets/logos/upstreams/noemi-basiletti.webp",
+        "Andzhelina Kostova": "assets/logos/upstreams/andzhelina-kostova.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -4109,6 +4116,7 @@
         "FIBA World Cup, European Qualifiers, Group B": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-b.webp",
         "FIBA World Cup, European Qualifiers, Group E": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-e.webp",
         "FIBA World Cup, European Qualifiers, Group C": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-c.webp",
-        "Alps Hockey League, Qualification Round, Group A": "assets/logos/leagues/alps-hockey-league-qualification-round-group-a.webp"
+        "Alps Hockey League, Qualification Round, Group A": "assets/logos/leagues/alps-hockey-league-qualification-round-group-a.webp",
+        "NHL Hockey": "assets/logos/leagues/nhl-hockey.webp"
     }
 }
