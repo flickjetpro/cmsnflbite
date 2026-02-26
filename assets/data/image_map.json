@@ -3735,7 +3735,10 @@
         "Jia Jing Lu": "assets/logos/upstreams/jia-jing-lu.webp",
         "Sofapaka": "assets/logos/upstreams/sofapaka.webp",
         "Police FC": "assets/logos/upstreams/police-fc.webp",
-        "Wigan Warriors": "assets/logos/streamed/wigan-warriors.webp"
+        "Wigan Warriors": "assets/logos/streamed/wigan-warriors.webp",
+        "Aaron Bailey": "assets/logos/upstreams/aaron-bailey.webp",
+        "Fountain Gate": "assets/logos/upstreams/fountain-gate.webp",
+        "TRA United": "assets/logos/upstreams/tra-united.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
