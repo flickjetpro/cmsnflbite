@@ -3844,7 +3844,12 @@
         "Djurg\u00e5rdens IF": "assets/logos/upstreams/djurg\u00e5rdens-if.webp",
         "Emma Navarro": "assets/logos/upstreams/emma-navarro.webp",
         "Jasmine Paolini": "assets/logos/upstreams/jasmine-paolini.webp",
-        "Maanav Jain": "assets/logos/upstreams/maanav-jain.webp"
+        "Maanav Jain": "assets/logos/upstreams/maanav-jain.webp",
+        "FC Lausanne-Sport": "assets/logos/upstreams/fc-lausanne-sport.webp",
+        "SK Sigma Olomouc": "assets/logos/upstreams/sk-sigma-olomouc.webp",
+        "Leigh": "assets/logos/upstreams/leigh.webp",
+        "SA XV Charente": "assets/logos/upstreams/sa-xv-charente.webp",
+        "Valence Romans Dr\u00f4me": "assets/logos/upstreams/valence-romans-dr\u00f4me.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -4242,6 +4247,9 @@
         "NHL Hockey": "assets/logos/leagues/nhl-hockey.webp",
         "Ligue A": "assets/logos/leagues/ligue-a.webp",
         "Santiago Open": "assets/logos/leagues/santiago-open.webp",
-        "FIBA World Cup, European Qualifiers, Group G": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-g.webp"
+        "FIBA World Cup, European Qualifiers, Group G": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-g.webp",
+        "UEFA Europa League": "assets/logos/leagues/uefa-europa-league.webp",
+        "UEFA Conference League": "assets/logos/leagues/uefa-conference-league.webp",
+        "Basketball Euroleague": "assets/logos/leagues/basketball-euroleague.webp"
     }
 }
