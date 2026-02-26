@@ -3722,7 +3722,13 @@
         "Oscar Weightman": "assets/logos/upstreams/oscar-weightman.webp",
         "Sapfo Sakellaridi": "assets/logos/upstreams/sapfo-sakellaridi.webp",
         "Noemi Basiletti": "assets/logos/upstreams/noemi-basiletti.webp",
-        "Andzhelina Kostova": "assets/logos/upstreams/andzhelina-kostova.webp"
+        "Andzhelina Kostova": "assets/logos/upstreams/andzhelina-kostova.webp",
+        "Brisbane Lions": "assets/logos/upstreams/brisbane-lions.webp",
+        "Gold Coast Suns": "assets/logos/upstreams/gold-coast-suns.webp",
+        "Christian Garin": "assets/logos/upstreams/christian-garin.webp",
+        "Sebastian Baez": "assets/logos/upstreams/sebastian-baez.webp",
+        "Hungary": "assets/logos/upstreams/hungary.webp",
+        "Belgium": "assets/logos/upstreams/belgium.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -4117,6 +4123,9 @@
         "FIBA World Cup, European Qualifiers, Group E": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-e.webp",
         "FIBA World Cup, European Qualifiers, Group C": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-c.webp",
         "Alps Hockey League, Qualification Round, Group A": "assets/logos/leagues/alps-hockey-league-qualification-round-group-a.webp",
-        "NHL Hockey": "assets/logos/leagues/nhl-hockey.webp"
+        "NHL Hockey": "assets/logos/leagues/nhl-hockey.webp",
+        "Ligue A": "assets/logos/leagues/ligue-a.webp",
+        "Santiago Open": "assets/logos/leagues/santiago-open.webp",
+        "FIBA World Cup, European Qualifiers, Group G": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-g.webp"
     }
 }
