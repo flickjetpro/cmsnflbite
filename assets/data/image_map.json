@@ -4369,7 +4369,10 @@
         "Meta Catania": "assets/logos/upstreams/meta-catania.webp",
         "Sandro Abate": "assets/logos/upstreams/sandro-abate.webp",
         "Duje Ajdukovic": "assets/logos/upstreams/duje-ajdukovic.webp",
-        "Federico Cina": "assets/logos/upstreams/federico-cina.webp"
+        "Federico Cina": "assets/logos/upstreams/federico-cina.webp",
+        "The Real Warriors": "assets/logos/upstreams/the-real-warriors.webp",
+        "DPMM": "assets/logos/upstreams/dpmm.webp",
+        "Kuala Lumpur City": "assets/logos/upstreams/kuala-lumpur-city.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -4823,6 +4826,7 @@
         "I-League": "assets/logos/leagues/i-league.webp",
         "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp",
         "UFC Fight Night: Moreno vs. Kavanagh": "assets/logos/leagues/ufc-fight-night-moreno-vs-kavanagh.webp",
-        "Liga 3, Relegation Round, Group 2": "assets/logos/leagues/liga-3-relegation-round-group-2.webp"
+        "Liga 3, Relegation Round, Group 2": "assets/logos/leagues/liga-3-relegation-round-group-2.webp",
+        "Malaysia Super League": "assets/logos/leagues/malaysia-super-league.webp"
     }
 }
