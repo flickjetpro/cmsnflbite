@@ -4238,7 +4238,21 @@
         "American University Eagles": "assets/logos/upstreams/american-university-eagles.webp",
         "Fordham Rams": "assets/logos/upstreams/fordham-rams.webp",
         "Sigortam.net Itu BB": "assets/logos/upstreams/sigortamnet-itu-bb.webp",
-        "Final Genclik": "assets/logos/upstreams/final-genclik.webp"
+        "Final Genclik": "assets/logos/upstreams/final-genclik.webp",
+        "Kapaz": "assets/logos/upstreams/kapaz.webp",
+        "Terengganu": "assets/logos/upstreams/terengganu.webp",
+        "Kuala Lumpur City FC": "assets/logos/upstreams/kuala-lumpur-city-fc.webp",
+        "London W": "assets/logos/upstreams/london-w.webp",
+        "Manchester W": "assets/logos/upstreams/manchester-w.webp",
+        "TUTO Hockey": "assets/logos/upstreams/tuto-hockey.webp",
+        "Australia Women": "assets/logos/upstreams/australia-women.webp",
+        "India Women": "assets/logos/upstreams/india-women.webp",
+        "Australia W": "assets/logos/upstreams/australia-w.webp",
+        "India W": "assets/logos/upstreams/india-w.webp",
+        "Machida": "assets/logos/upstreams/machida.webp",
+        "Chiba": "assets/logos/upstreams/chiba.webp",
+        "New Zealand W": "assets/logos/upstreams/new-zealand-w.webp",
+        "Zimbabwe W": "assets/logos/upstreams/zimbabwe-w.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -4677,6 +4691,10 @@
         "Atlantic 10 Conference Women": "assets/logos/leagues/atlantic-10-conference-women.webp",
         "NCAA, Women": "assets/logos/leagues/ncaa-women.webp",
         "Turkey - TB2L (W)": "assets/logos/leagues/turkey-tb2l-w.webp",
-        "Finland - MEastis": "assets/logos/leagues/finland-meastis.webp"
+        "Finland - MEastis": "assets/logos/leagues/finland-meastis.webp",
+        "Superleague": "assets/logos/leagues/superleague.webp",
+        "India Women in Australia, 3 ODI Series": "assets/logos/leagues/india-women-in-australia-3-odi-series.webp",
+        "Cricket T20 World Cup": "assets/logos/leagues/cricket-t20-world-cup.webp",
+        "Japan J League": "assets/logos/leagues/japan-j-league.webp"
     }
 }
