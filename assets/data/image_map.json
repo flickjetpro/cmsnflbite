@@ -4275,7 +4275,30 @@
         "Hull F.C.": "assets/logos/streamed/hull-fc.webp",
         "York City Knights": "assets/logos/streamed/york-city-knights.webp",
         "Castleford Tigers": "assets/logos/streamed/castleford-tigers.webp",
-        "Huddersfield Giants": "assets/logos/streamed/huddersfield-giants.webp"
+        "Huddersfield Giants": "assets/logos/streamed/huddersfield-giants.webp",
+        "Namdhari FC": "assets/logos/upstreams/namdhari-fc.webp",
+        "Aizawl FC": "assets/logos/upstreams/aizawl-fc.webp",
+        "FC Epicentr Dunaivtsi": "assets/logos/upstreams/fc-epicentr-dunaivtsi.webp",
+        "Shakhtar Donetsk": "assets/logos/upstreams/shakhtar-donetsk.webp",
+        "NK Veres Rivne": "assets/logos/upstreams/nk-veres-rivne.webp",
+        "Araz": "assets/logos/upstreams/araz.webp",
+        "Zira": "assets/logos/upstreams/zira.webp",
+        "Kelantan The Real Warriors FC": "assets/logos/upstreams/kelantan-the-real-warriors-fc.webp",
+        "Brunei DPMM FC": "assets/logos/upstreams/brunei-dpmm-fc.webp",
+        "LillEastrom": "assets/logos/upstreams/lilleastrom.webp",
+        "Tromso": "assets/logos/upstreams/tromso.webp",
+        "BC Alte Kanti Aarau": "assets/logos/upstreams/bc-alte-kanti-aarau.webp",
+        "Elfic Fribourg": "assets/logos/upstreams/elfic-fribourg.webp",
+        "Damian Pinas": "assets/logos/upstreams/damian-pinas.webp",
+        "Wesley Schultz": "assets/logos/upstreams/wesley-schultz.webp",
+        "Sofia  Montenegro": "assets/logos/upstreams/sofia-montenegro.webp",
+        "Ernesta Kareckaite": "assets/logos/upstreams/ernesta-kareckaite.webp",
+        "Douglas Silva de Andrade": "assets/logos/upstreams/douglas-silva-de-andrade.webp",
+        "Javier Reyes": "assets/logos/upstreams/javier-reyes.webp",
+        "Cristian Quinonez": "assets/logos/upstreams/cristian-quinonez.webp",
+        "Kris Moutinho": "assets/logos/upstreams/kris-moutinho.webp",
+        "Tampines": "assets/logos/upstreams/tampines.webp",
+        "Hougang": "assets/logos/upstreams/hougang.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -4725,6 +4748,8 @@
         "Atp": "assets/logos/leagues/atp.webp",
         "Rugby Union": "assets/logos/leagues/rugby-union.webp",
         "Handball": "assets/logos/leagues/handball.webp",
-        "Super League Rugby": "assets/logos/leagues/super-league-rugby.webp"
+        "Super League Rugby": "assets/logos/leagues/super-league-rugby.webp",
+        "I-League": "assets/logos/leagues/i-league.webp",
+        "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp"
     }
 }
