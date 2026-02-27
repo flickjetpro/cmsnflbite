@@ -4271,7 +4271,11 @@
         "Hull KR": "assets/logos/upstreams/hull-kr.webp",
         "Leeds Rhinos": "assets/logos/upstreams/leeds-rhinos.webp",
         "BK Rapid Wien": "assets/logos/upstreams/bk-rapid-wien.webp",
-        "Pantterit": "assets/logos/upstreams/pantterit.webp"
+        "Pantterit": "assets/logos/upstreams/pantterit.webp",
+        "Hull F.C.": "assets/logos/streamed/hull-fc.webp",
+        "York City Knights": "assets/logos/streamed/york-city-knights.webp",
+        "Castleford Tigers": "assets/logos/streamed/castleford-tigers.webp",
+        "Huddersfield Giants": "assets/logos/streamed/huddersfield-giants.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
