@@ -4359,7 +4359,17 @@
         "AEK Athens FC": "assets/logos/streamed/aek-athens-fc.webp",
         "MSV Duisburg": "assets/logos/streamed/msv-duisburg.webp",
         "Aarhus": "assets/logos/streamed/aarhus.webp",
-        "Stade Brestois 29": "assets/logos/streamed/stade-brestois-29.webp"
+        "Stade Brestois 29": "assets/logos/streamed/stade-brestois-29.webp",
+        "Atletico CP": "assets/logos/upstreams/atletico-cp.webp",
+        "SC Covilh\u00e3": "assets/logos/upstreams/sc-covilh\u00e3.webp",
+        "SC 1\u00ba Dezembro": "assets/logos/upstreams/sc-1\u00ba-dezembro.webp",
+        "Lusitano Evora": "assets/logos/upstreams/lusitano-evora.webp",
+        "Caldas SC": "assets/logos/upstreams/caldas-sc.webp",
+        "Amora FC": "assets/logos/upstreams/amora-fc.webp",
+        "Meta Catania": "assets/logos/upstreams/meta-catania.webp",
+        "Sandro Abate": "assets/logos/upstreams/sandro-abate.webp",
+        "Duje Ajdukovic": "assets/logos/upstreams/duje-ajdukovic.webp",
+        "Federico Cina": "assets/logos/upstreams/federico-cina.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -4812,6 +4822,7 @@
         "Super League Rugby": "assets/logos/leagues/super-league-rugby.webp",
         "I-League": "assets/logos/leagues/i-league.webp",
         "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp",
-        "UFC Fight Night: Moreno vs. Kavanagh": "assets/logos/leagues/ufc-fight-night-moreno-vs-kavanagh.webp"
+        "UFC Fight Night: Moreno vs. Kavanagh": "assets/logos/leagues/ufc-fight-night-moreno-vs-kavanagh.webp",
+        "Liga 3, Relegation Round, Group 2": "assets/logos/leagues/liga-3-relegation-round-group-2.webp"
     }
 }
