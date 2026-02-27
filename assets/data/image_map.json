@@ -4314,7 +4314,11 @@
         "FC FaMalicao": "assets/logos/upstreams/fc-famalicao.webp",
         "Gimhae City FC": "assets/logos/upstreams/gimhae-city-fc.webp",
         "Ansan Greeners FC": "assets/logos/upstreams/ansan-greeners-fc.webp",
-        "Stallion Laguna": "assets/logos/upstreams/stallion-laguna.webp"
+        "Stallion Laguna": "assets/logos/upstreams/stallion-laguna.webp",
+        "Sofia Montenegro": "assets/logos/upstreams/sofia-montenegro.webp",
+        "ErnEasta Kareckaite": "assets/logos/upstreams/erneasta-kareckaite.webp",
+        "Douglas Silva De Andrade": "assets/logos/upstreams/douglas-silva-de-andrade.webp",
+        "Christian Quinonez": "assets/logos/upstreams/christian-quinonez.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -4766,6 +4770,7 @@
         "Handball": "assets/logos/leagues/handball.webp",
         "Super League Rugby": "assets/logos/leagues/super-league-rugby.webp",
         "I-League": "assets/logos/leagues/i-league.webp",
-        "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp"
+        "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp",
+        "UFC Fight Night: Moreno vs. Kavanagh": "assets/logos/leagues/ufc-fight-night-moreno-vs-kavanagh.webp"
     }
 }
