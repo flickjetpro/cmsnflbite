@@ -4104,7 +4104,20 @@
         "Queensland Lions": "assets/logos/upstreams/queensland-lions.webp",
         "Gold Coast Knights": "assets/logos/upstreams/gold-coast-knights.webp",
         "Sunshine Coast Wanderers (W)": "assets/logos/upstreams/sunshine-coast-wanderers-w.webp",
-        "Villa de Aranda": "assets/logos/upstreams/villa-de-aranda.webp"
+        "Villa de Aranda": "assets/logos/upstreams/villa-de-aranda.webp",
+        "Bahamas": "assets/logos/streamed/bahamas.webp",
+        "Juventud": "assets/logos/streamed/juventud.webp",
+        "Vasco DA Gama": "assets/logos/streamed/vasco-da-gama.webp",
+        "Argentina Basketball": "assets/logos/streamed/argentina-basketball.webp",
+        "Uruguay Basketball": "assets/logos/streamed/uruguay-basketball.webp",
+        "Cuba Basketball": "assets/logos/streamed/cuba-basketball.webp",
+        "Panama Basketball": "assets/logos/streamed/panama-basketball.webp",
+        "Tijuana": "assets/logos/streamed/tijuana.webp",
+        "Hurricanes Super Rugby": "assets/logos/streamed/hurricanes-super-rugby.webp",
+        "Crusaders Super Rugby": "assets/logos/streamed/crusaders-super-rugby.webp",
+        "ACT Brumbies": "assets/logos/streamed/act-brumbies.webp",
+        "Pogo\u0144 Szczecin": "assets/logos/streamed/pogo\u0144-szczecin.webp",
+        "Real Zaragoza": "assets/logos/streamed/real-zaragoza.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
