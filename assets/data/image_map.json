@@ -4252,7 +4252,26 @@
         "Machida": "assets/logos/upstreams/machida.webp",
         "Chiba": "assets/logos/upstreams/chiba.webp",
         "New Zealand W": "assets/logos/upstreams/new-zealand-w.webp",
-        "Zimbabwe W": "assets/logos/upstreams/zimbabwe-w.webp"
+        "Zimbabwe W": "assets/logos/upstreams/zimbabwe-w.webp",
+        "Ospitaletto F. | 240 min": "assets/logos/upstreams/ospitaletto-f-240-min.webp",
+        "Kerala Blasters": "assets/logos/upstreams/kerala-blasters.webp",
+        "Imatran Kettera": "assets/logos/upstreams/imatran-kettera.webp",
+        "Jokerit": "assets/logos/upstreams/jokerit.webp",
+        "Feh\u00e9rv\u00e1r AV19": "assets/logos/upstreams/feh\u00e9rv\u00e1r-av19.webp",
+        "ATP500: Dubai Duty Free Tennis Championships": "assets/logos/upstreams/atp500-dubai-duty-free-tennis-championships.webp",
+        "KO\u0160 Klagenfurt": "assets/logos/upstreams/ko\u0161-klagenfurt.webp",
+        "Future Team Steiermark": "assets/logos/upstreams/future-team-steiermark.webp",
+        "BBU Salzburg": "assets/logos/upstreams/bbu-salzburg.webp",
+        "Herons": "assets/logos/upstreams/herons.webp",
+        "ATP500: Abierto Mexicano Telcel presentado por HSBC": "assets/logos/upstreams/atp500-abierto-mexicano-telcel-presentado-por-hsbc.webp",
+        "Acapulco": "assets/logos/upstreams/acapulco.webp",
+        "Raholan Pyrkiva": "assets/logos/upstreams/raholan-pyrkiva.webp",
+        "Helios VS Basket": "assets/logos/upstreams/helios-vs-basket.webp",
+        "Saint-Rapha\u00ebl": "assets/logos/upstreams/saint-rapha\u00ebl.webp",
+        "Hull KR": "assets/logos/upstreams/hull-kr.webp",
+        "Leeds Rhinos": "assets/logos/upstreams/leeds-rhinos.webp",
+        "BK Rapid Wien": "assets/logos/upstreams/bk-rapid-wien.webp",
+        "Pantterit": "assets/logos/upstreams/pantterit.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -4695,6 +4714,13 @@
         "Superleague": "assets/logos/leagues/superleague.webp",
         "India Women in Australia, 3 ODI Series": "assets/logos/leagues/india-women-in-australia-3-odi-series.webp",
         "Cricket T20 World Cup": "assets/logos/leagues/cricket-t20-world-cup.webp",
-        "Japan J League": "assets/logos/leagues/japan-j-league.webp"
+        "Japan J League": "assets/logos/leagues/japan-j-league.webp",
+        "Football": "assets/logos/leagues/football.webp",
+        "Peru - League 1 - Apertura": "assets/logos/leagues/peru-league-1-apertura.webp",
+        "Tennis": "assets/logos/leagues/tennis.webp",
+        "Atp": "assets/logos/leagues/atp.webp",
+        "Rugby Union": "assets/logos/leagues/rugby-union.webp",
+        "Handball": "assets/logos/leagues/handball.webp",
+        "Super League Rugby": "assets/logos/leagues/super-league-rugby.webp"
     }
 }
