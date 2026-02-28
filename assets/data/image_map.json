@@ -4864,7 +4864,18 @@
         "Nikolai Barsukov": "assets/logos/upstreams/nikolai-barsukov.webp",
         "Alaa Trifi": "assets/logos/upstreams/alaa-trifi.webp",
         "MMTS Kwidzyn": "assets/logos/upstreams/mmts-kwidzyn.webp",
-        "KPR Legionowo": "assets/logos/upstreams/kpr-legionowo.webp"
+        "KPR Legionowo": "assets/logos/upstreams/kpr-legionowo.webp",
+        "G. Universe": "assets/logos/upstreams/g-universe.webp",
+        "Cheng Fung": "assets/logos/upstreams/cheng-fung.webp",
+        "ASKO Kara": "assets/logos/upstreams/asko-kara.webp",
+        "Gbohloesu": "assets/logos/upstreams/gbohloesu.webp",
+        "Shillong Lajong FC": "assets/logos/upstreams/shillong-lajong-fc.webp",
+        "Rajasthan United FC": "assets/logos/upstreams/rajasthan-united-fc.webp",
+        "Macy Chiasson": "assets/logos/upstreams/macy-chiasson.webp",
+        "Ailin Perez": "assets/logos/upstreams/ailin-perez.webp",
+        "Dempo SC": "assets/logos/upstreams/dempo-sc.webp",
+        "Real Kashmir": "assets/logos/upstreams/real-kashmir.webp",
+        "Pedro Iamachkine": "assets/logos/upstreams/pedro-iamachkine.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -5350,6 +5361,7 @@
         "Israel - Premier League": "assets/logos/leagues/israel-premier-league.webp",
         "Meridianbet KLS": "assets/logos/leagues/meridianbet-kls.webp",
         "Mineiro M\u00f3dulo I - Playoffs": "assets/logos/leagues/mineiro-m\u00f3dulo-i-playoffs.webp",
-        "Mauritania - Super D1": "assets/logos/leagues/mauritania-super-d1.webp"
+        "Mauritania - Super D1": "assets/logos/leagues/mauritania-super-d1.webp",
+        "Australia Women A-League": "assets/logos/leagues/australia-women-a-league.webp"
     }
 }
