@@ -4658,7 +4658,19 @@
         "Beijing Guoan": "assets/logos/upstreams/beijing-guoan.webp",
         "Newcastle Knights": "assets/logos/upstreams/newcastle-knights.webp",
         "North Queensland Cowboys": "assets/logos/upstreams/north-queensland-cowboys.webp",
-        "Hull Kingston Rovers": "assets/logos/upstreams/hull-kingston-rovers.webp"
+        "Hull Kingston Rovers": "assets/logos/upstreams/hull-kingston-rovers.webp",
+        "Chile": "assets/logos/streamed/chile.webp",
+        "Colombia": "assets/logos/streamed/colombia.webp",
+        "Brazil": "assets/logos/streamed/brazil.webp",
+        "Venezuela": "assets/logos/streamed/venezuela.webp",
+        "Le\u00f3n": "assets/logos/streamed/le\u00f3n.webp",
+        "Charlotte FC": "assets/logos/streamed/charlotte-fc.webp",
+        "Hertha": "assets/logos/streamed/hertha.webp",
+        "Gen\u00e7lerbirli\u011fi": "assets/logos/streamed/gen\u00e7lerbirli\u011fi.webp",
+        "Basel": "assets/logos/streamed/basel.webp",
+        "Bristol Bears": "assets/logos/streamed/bristol-bears.webp",
+        "Volos": "assets/logos/streamed/volos.webp",
+        "Silkeborg IF": "assets/logos/streamed/silkeborg-if.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
