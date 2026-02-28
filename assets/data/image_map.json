@@ -4927,7 +4927,10 @@
         "Alverca Futebol": "assets/logos/upstreams/alverca-futebol.webp",
         "Acad. Viseu": "assets/logos/upstreams/acad-viseu.webp",
         "Rhiann Newborn": "assets/logos/upstreams/rhiann-newborn.webp",
-        "American": "assets/logos/streamed/american.webp"
+        "American": "assets/logos/streamed/american.webp",
+        "AD Fundao": "assets/logos/upstreams/ad-fundao.webp",
+        "Ferreira Zezere": "assets/logos/upstreams/ferreira-zezere.webp",
+        "ADCR Caxinas": "assets/logos/upstreams/adcr-caxinas.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
