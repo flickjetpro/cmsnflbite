@@ -4944,7 +4944,12 @@
         "SC S\u00e3o Jo\u00e3o Ver": "assets/logos/upstreams/sc-s\u00e3o-jo\u00e3o-ver.webp",
         "SC Braga B": "assets/logos/upstreams/sc-braga-b.webp",
         "USC Paredes": "assets/logos/upstreams/usc-paredes.webp",
-        "AS Pompier": "assets/logos/upstreams/as-pompier.webp"
+        "AS Pompier": "assets/logos/upstreams/as-pompier.webp",
+        "St Johns": "assets/logos/streamed/st-johns.webp",
+        "Oregon State": "assets/logos/streamed/oregon-state.webp",
+        "Virginia Tech": "assets/logos/streamed/virginia-tech.webp",
+        "UC Irvine": "assets/logos/streamed/uc-irvine.webp",
+        "UC-Santa Barbara": "assets/logos/streamed/uc-santa-barbara.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
