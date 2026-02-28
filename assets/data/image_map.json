@@ -4936,7 +4936,14 @@
         "St. Louis City": "assets/logos/streamed/st-louis-city.webp",
         "Armenia": "assets/logos/streamed/armenia.webp",
         "Texas A and M": "assets/logos/streamed/texas-a-and-m.webp",
-        "Benetton Treviso": "assets/logos/upstreams/benetton-treviso.webp"
+        "Benetton Treviso": "assets/logos/upstreams/benetton-treviso.webp",
+        "Onze Createurs": "assets/logos/upstreams/onze-createurs.webp",
+        "FC Diarra": "assets/logos/upstreams/fc-diarra.webp",
+        "AD Sanjoanense": "assets/logos/upstreams/ad-sanjoanense.webp",
+        "AD Marco 09": "assets/logos/upstreams/ad-marco-09.webp",
+        "SC S\u00e3o Jo\u00e3o Ver": "assets/logos/upstreams/sc-s\u00e3o-jo\u00e3o-ver.webp",
+        "SC Braga B": "assets/logos/upstreams/sc-braga-b.webp",
+        "USC Paredes": "assets/logos/upstreams/usc-paredes.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -5424,6 +5431,7 @@
         "Mineiro M\u00f3dulo I - Playoffs": "assets/logos/leagues/mineiro-m\u00f3dulo-i-playoffs.webp",
         "Mauritania - Super D1": "assets/logos/leagues/mauritania-super-d1.webp",
         "Australia Women A-League": "assets/logos/leagues/australia-women-a-league.webp",
-        "2nd SNL": "assets/logos/leagues/2nd-snl.webp"
+        "2nd SNL": "assets/logos/leagues/2nd-snl.webp",
+        "Liga 3, Relegation Round, Group 1": "assets/logos/leagues/liga-3-relegation-round-group-1.webp"
     }
 }
