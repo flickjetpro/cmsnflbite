@@ -5289,7 +5289,10 @@
         "Murray State": "assets/logos/streamed/murray-state.webp",
         "Evansville": "assets/logos/streamed/evansville.webp",
         "Southern Illinois": "assets/logos/streamed/southern-illinois.webp",
-        "Nybro IF": "assets/logos/upstreams/nybro-if.webp"
+        "Nybro IF": "assets/logos/upstreams/nybro-if.webp",
+        "Nouakchott Academie": "assets/logos/upstreams/nouakchott-academie.webp",
+        "Gendrim": "assets/logos/upstreams/gendrim.webp",
+        "Natsuho Arakawa": "assets/logos/upstreams/natsuho-arakawa.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
