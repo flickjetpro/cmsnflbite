@@ -4973,7 +4973,34 @@
         "Atletico San Luis": "assets/logos/streamed/atletico-san-luis.webp",
         "Orlando City": "assets/logos/streamed/orlando-city.webp",
         "Lan\u00fas": "assets/logos/streamed/lan\u00fas.webp",
-        "St. Louis City SC": "assets/logos/streamed/st-louis-city-sc.webp"
+        "St. Louis City SC": "assets/logos/streamed/st-louis-city-sc.webp",
+        "Hazem Naw": "assets/logos/upstreams/hazem-naw.webp",
+        "Yosuke Watanuki": "assets/logos/upstreams/yosuke-watanuki.webp",
+        "Mario Mansilla Diez": "assets/logos/upstreams/mario-mansilla-diez.webp",
+        "Luca Potenza": "assets/logos/upstreams/luca-potenza.webp",
+        "Jan Jermar": "assets/logos/upstreams/jan-jermar.webp",
+        "Stephanos Schinas": "assets/logos/upstreams/stephanos-schinas.webp",
+        "Allan Gatoto": "assets/logos/upstreams/allan-gatoto.webp",
+        "Ivan Marrero Curbelo": "assets/logos/upstreams/ivan-marrero-curbelo.webp",
+        "Etienne Niyigena": "assets/logos/upstreams/etienne-niyigena.webp",
+        "Maik Steiner": "assets/logos/upstreams/maik-steiner.webp",
+        "Ryan Nijboer": "assets/logos/upstreams/ryan-nijboer.webp",
+        "Matteo Covato": "assets/logos/upstreams/matteo-covato.webp",
+        "Samuele Pieri": "assets/logos/upstreams/samuele-pieri.webp",
+        "Javier Barranco Cosano": "assets/logos/upstreams/javier-barranco-cosano.webp",
+        "Peter Makk": "assets/logos/upstreams/peter-makk.webp",
+        "Michalis Sakellaridis": "assets/logos/upstreams/michalis-sakellaridis.webp",
+        "Jack Loge": "assets/logos/upstreams/jack-loge.webp",
+        "Michiel De Krom": "assets/logos/upstreams/michiel-de-krom.webp",
+        "Denys Klok": "assets/logos/upstreams/denys-klok.webp",
+        "Oriol Roca Batalla": "assets/logos/upstreams/oriol-roca-batalla.webp",
+        "Guy Orly Iradukunda": "assets/logos/upstreams/guy-orly-iradukunda.webp",
+        "Stefano Napolitano": "assets/logos/upstreams/stefano-napolitano.webp",
+        "Dillon Beckles": "assets/logos/upstreams/dillon-beckles.webp",
+        "Rudolf Molleker": "assets/logos/upstreams/rudolf-molleker.webp",
+        "Pavel Kotov": "assets/logos/upstreams/pavel-kotov.webp",
+        "Martin Krumich": "assets/logos/upstreams/martin-krumich.webp",
+        "Christian Langmo": "assets/logos/upstreams/christian-langmo.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -5466,6 +5493,9 @@
         "SheBelieves Cup (W)": "assets/logos/leagues/shebelieves-cup-w.webp",
         "AFC Asian Cup, Women, Group A": "assets/logos/leagues/afc-asian-cup-women-group-a.webp",
         "AFC - Champions League - Playoff": "assets/logos/leagues/afc-champions-league-playoff.webp",
-        "Premier League 2": "assets/logos/leagues/premier-league-2.webp"
+        "Premier League 2": "assets/logos/leagues/premier-league-2.webp",
+        "Thionville, France, Qualifying": "assets/logos/leagues/thionville-france-qualifying.webp",
+        "Hersonissos, Greece, Qualifying": "assets/logos/leagues/hersonissos-greece-qualifying.webp",
+        "Kigali, Rwanda, Qualifying": "assets/logos/leagues/kigali-rwanda-qualifying.webp"
     }
 }
