@@ -5279,7 +5279,12 @@
         "South Florida": "assets/logos/streamed/south-florida.webp",
         "Tulane": "assets/logos/streamed/tulane.webp",
         "Canisius": "assets/logos/streamed/canisius.webp",
-        "Quinnipiac": "assets/logos/streamed/quinnipiac.webp"
+        "Quinnipiac": "assets/logos/streamed/quinnipiac.webp",
+        "Albania": "assets/logos/streamed/albania.webp",
+        "Zag\u0142\u0119bie Lubin": "assets/logos/streamed/zag\u0142\u0119bie-lubin.webp",
+        "Independ. Rivadavia": "assets/logos/streamed/independ-rivadavia.webp",
+        "Fethiyespor": "assets/logos/streamed/fethiyespor.webp",
+        "\u0130stanbulspor": "assets/logos/streamed/istanbulspor.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
