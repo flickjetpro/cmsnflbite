@@ -4968,7 +4968,12 @@
         "Daejeon Hana Citizen": "assets/logos/upstreams/daejeon-hana-citizen.webp",
         "FC Anyang": "assets/logos/upstreams/fc-anyang.webp",
         "Busan I Park": "assets/logos/upstreams/busan-i-park.webp",
-        "Seongnam FC": "assets/logos/upstreams/seongnam-fc.webp"
+        "Seongnam FC": "assets/logos/upstreams/seongnam-fc.webp",
+        "Junior": "assets/logos/streamed/junior.webp",
+        "Atletico San Luis": "assets/logos/streamed/atletico-san-luis.webp",
+        "Orlando City": "assets/logos/streamed/orlando-city.webp",
+        "Lan\u00fas": "assets/logos/streamed/lan\u00fas.webp",
+        "St. Louis City SC": "assets/logos/streamed/st-louis-city-sc.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
