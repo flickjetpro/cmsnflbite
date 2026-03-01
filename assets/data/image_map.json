@@ -5275,7 +5275,11 @@
         "Antivari (W)": "assets/logos/upstreams/antivari-w.webp",
         "El Salvador (W)": "assets/logos/upstreams/el-salvador-w.webp",
         "Barbados (W)": "assets/logos/upstreams/barbados-w.webp",
-        "MoDo Hockey": "assets/logos/upstreams/modo-hockey.webp"
+        "MoDo Hockey": "assets/logos/upstreams/modo-hockey.webp",
+        "South Florida": "assets/logos/streamed/south-florida.webp",
+        "Tulane": "assets/logos/streamed/tulane.webp",
+        "Canisius": "assets/logos/streamed/canisius.webp",
+        "Quinnipiac": "assets/logos/streamed/quinnipiac.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
