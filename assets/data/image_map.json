@@ -4950,7 +4950,25 @@
         "Virginia Tech": "assets/logos/streamed/virginia-tech.webp",
         "UC Irvine": "assets/logos/streamed/uc-irvine.webp",
         "UC-Santa Barbara": "assets/logos/streamed/uc-santa-barbara.webp",
-        "Lone&#x27;er Kavanagh": "assets/logos/streamed/lonex27er-kavanagh.webp"
+        "Lone&#x27;er Kavanagh": "assets/logos/streamed/lonex27er-kavanagh.webp",
+        "NC Wilmington": "assets/logos/upstreams/nc-wilmington.webp",
+        "San Diego FC": "assets/logos/upstreams/san-diego-fc.webp",
+        "St.Louis City": "assets/logos/upstreams/stlouis-city.webp",
+        "FC Rapid Bucuresti": "assets/logos/upstreams/fc-rapid-bucuresti.webp",
+        "Zaglebie": "assets/logos/upstreams/zaglebie.webp",
+        "Plock": "assets/logos/upstreams/plock.webp",
+        "Nicaragua W": "assets/logos/upstreams/nicaragua-w.webp",
+        "Jamaica W": "assets/logos/upstreams/jamaica-w.webp",
+        "Al Duhail": "assets/logos/upstreams/al-duhail.webp",
+        "Al Ahli": "assets/logos/upstreams/al-ahli.webp",
+        "Mexico W": "assets/logos/upstreams/mexico-w.webp",
+        "Manchester Utd U21": "assets/logos/upstreams/manchester-utd-u21.webp",
+        "Chelsea U21": "assets/logos/upstreams/chelsea-u21.webp",
+        "Andorra": "assets/logos/upstreams/andorra.webp",
+        "Daejeon Hana Citizen": "assets/logos/upstreams/daejeon-hana-citizen.webp",
+        "FC Anyang": "assets/logos/upstreams/fc-anyang.webp",
+        "Busan I Park": "assets/logos/upstreams/busan-i-park.webp",
+        "Seongnam FC": "assets/logos/upstreams/seongnam-fc.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -5440,6 +5458,9 @@
         "Australia Women A-League": "assets/logos/leagues/australia-women-a-league.webp",
         "2nd SNL": "assets/logos/leagues/2nd-snl.webp",
         "Liga 3, Relegation Round, Group 1": "assets/logos/leagues/liga-3-relegation-round-group-1.webp",
-        "SheBelieves Cup (W)": "assets/logos/leagues/shebelieves-cup-w.webp"
+        "SheBelieves Cup (W)": "assets/logos/leagues/shebelieves-cup-w.webp",
+        "AFC Asian Cup, Women, Group A": "assets/logos/leagues/afc-asian-cup-women-group-a.webp",
+        "AFC - Champions League - Playoff": "assets/logos/leagues/afc-champions-league-playoff.webp",
+        "Premier League 2": "assets/logos/leagues/premier-league-2.webp"
     }
 }
