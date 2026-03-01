@@ -5253,7 +5253,24 @@
         "Rafael Tosetto": "assets/logos/upstreams/rafael-tosetto.webp",
         "Nicolas Villalon Valdes": "assets/logos/upstreams/nicolas-villalon-valdes.webp",
         "Hong Kong C.": "assets/logos/upstreams/hong-kong-c.webp",
-        "Kuwait": "assets/logos/upstreams/kuwait.webp"
+        "Kuwait": "assets/logos/upstreams/kuwait.webp",
+        "AS Otr": "assets/logos/upstreams/as-otr.webp",
+        "Emerson Jones": "assets/logos/upstreams/emerson-jones.webp",
+        "Simona Waltert": "assets/logos/upstreams/simona-waltert.webp",
+        "Himeno Sakatsume": "assets/logos/upstreams/himeno-sakatsume.webp",
+        "Kayla Day": "assets/logos/upstreams/kayla-day.webp",
+        "Aliaksandra Sasnovich": "assets/logos/upstreams/aliaksandra-sasnovich.webp",
+        "Leolia Jeanjean": "assets/logos/upstreams/leolia-jeanjean.webp",
+        "Darja Semenistaja": "assets/logos/upstreams/darja-semenistaja.webp",
+        "Lanlana Tararudee": "assets/logos/upstreams/lanlana-tararudee.webp",
+        "Saint Mary": "assets/logos/upstreams/saint-mary.webp",
+        "Diane Parry": "assets/logos/upstreams/diane-parry.webp",
+        "Maddison Inglis": "assets/logos/upstreams/maddison-inglis.webp",
+        "Suzan Lamens": "assets/logos/upstreams/suzan-lamens.webp",
+        "Talia Gibson": "assets/logos/upstreams/talia-gibson.webp",
+        "Yuliia Starodubtseva": "assets/logos/upstreams/yuliia-starodubtseva.webp",
+        "Eero Vasa": "assets/logos/upstreams/eero-vasa.webp",
+        "Patricio Alvarado": "assets/logos/upstreams/patricio-alvarado.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -5760,6 +5777,7 @@
         "Antalya 2, Turkiye, Qualifying": "assets/logos/leagues/antalya-2-turkiye-qualifying.webp",
         "Cricket": "assets/logos/leagues/cricket.webp",
         "Brasilia, Brazil, Qualifying": "assets/logos/leagues/brasilia-brazil-qualifying.webp",
-        "Kuwait in Hong Kong, China, 4 T20I Series": "assets/logos/leagues/kuwait-in-hong-kong-china-4-t20i-series.webp"
+        "Kuwait in Hong Kong, China, 4 T20I Series": "assets/logos/leagues/kuwait-in-hong-kong-china-4-t20i-series.webp",
+        "Indian Wells, USA, Qualifying": "assets/logos/leagues/indian-wells-usa-qualifying.webp"
     }
 }
