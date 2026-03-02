@@ -5633,7 +5633,13 @@
         "Sean Cuenin": "assets/logos/upstreams/sean-cuenin.webp",
         "Zdenek Kolar": "assets/logos/upstreams/zdenek-kolar.webp",
         "Goki Niinomi": "assets/logos/upstreams/goki-niinomi.webp",
-        "Sergey Fomin": "assets/logos/upstreams/sergey-fomin.webp"
+        "Sergey Fomin": "assets/logos/upstreams/sergey-fomin.webp",
+        "Chemal FC": "assets/logos/upstreams/chemal-fc.webp",
+        "Max Houkes": "assets/logos/upstreams/max-houkes.webp",
+        "Corentin Denolly": "assets/logos/upstreams/corentin-denolly.webp",
+        "Lorenzo Giustino": "assets/logos/upstreams/lorenzo-giustino.webp",
+        "Arthur Gea": "assets/logos/upstreams/arthur-gea.webp",
+        "Dimitar Kuzmanov": "assets/logos/upstreams/dimitar-kuzmanov.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -6173,6 +6179,7 @@
         "Turkiye Kupasi, Group A": "assets/logos/leagues/turkiye-kupasi-group-a.webp",
         "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp",
         "Mestis Playoffs": "assets/logos/leagues/mestis-playoffs.webp",
-        "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp"
+        "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp",
+        "English Premier League U21": "assets/logos/leagues/english-premier-league-u21.webp"
     }
 }
