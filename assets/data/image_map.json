@@ -5646,7 +5646,11 @@
         "BK Kekava": "assets/logos/upstreams/bk-kekava.webp",
         "Vardan Manukyan": "assets/logos/upstreams/vardan-manukyan.webp",
         "Dan Added": "assets/logos/upstreams/dan-added.webp",
-        "Jan Choinski": "assets/logos/upstreams/jan-choinski.webp"
+        "Jan Choinski": "assets/logos/upstreams/jan-choinski.webp",
+        "Howard": "assets/logos/streamed/howard.webp",
+        "Coppin State": "assets/logos/streamed/coppin-state.webp",
+        "McNeese State": "assets/logos/streamed/mcneese-state.webp",
+        "Incarnate Word": "assets/logos/streamed/incarnate-word.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
