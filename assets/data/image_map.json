@@ -5586,7 +5586,20 @@
         "Minori Natsuka": "assets/logos/upstreams/minori-natsuka.webp",
         "Junri Namigata": "assets/logos/upstreams/junri-namigata.webp",
         "Yuna Ohashi": "assets/logos/upstreams/yuna-ohashi.webp",
-        "Miyu Nakashima": "assets/logos/upstreams/miyu-nakashima.webp"
+        "Miyu Nakashima": "assets/logos/upstreams/miyu-nakashima.webp",
+        "Maritimo U23": "assets/logos/upstreams/maritimo-u23.webp",
+        "Eastoril Praia U23": "assets/logos/upstreams/eastoril-praia-u23.webp",
+        "Valentin Lapalu": "assets/logos/upstreams/valentin-lapalu.webp",
+        "Hunter Heck": "assets/logos/upstreams/hunter-heck.webp",
+        "Shohei Chikami": "assets/logos/upstreams/shohei-chikami.webp",
+        "Arjun Mehrotra": "assets/logos/upstreams/arjun-mehrotra.webp",
+        "Yu Maeda": "assets/logos/upstreams/yu-maeda.webp",
+        "Sae Noguchi": "assets/logos/upstreams/sae-noguchi.webp",
+        "Kato (2007) Miyu": "assets/logos/upstreams/kato-2007-miyu.webp",
+        "Ayumi Miyamoto": "assets/logos/upstreams/ayumi-miyamoto.webp",
+        "Ayaka Ozeki": "assets/logos/upstreams/ayaka-ozeki.webp",
+        "Bence Boros": "assets/logos/upstreams/bence-boros.webp",
+        "Sora Fukuda": "assets/logos/upstreams/sora-fukuda.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -6125,6 +6138,7 @@
         "World Cup Women": "assets/logos/leagues/world-cup-women.webp",
         "Turkiye Kupasi, Group A": "assets/logos/leagues/turkiye-kupasi-group-a.webp",
         "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp",
-        "Mestis Playoffs": "assets/logos/leagues/mestis-playoffs.webp"
+        "Mestis Playoffs": "assets/logos/leagues/mestis-playoffs.webp",
+        "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp"
     }
 }
