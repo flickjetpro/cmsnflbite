@@ -5320,7 +5320,24 @@
         "Costa Rica W": "assets/logos/upstreams/costa-rica-w.webp",
         "Podgorica": "assets/logos/upstreams/podgorica.webp",
         "Helios Domzale": "assets/logos/upstreams/helios-domzale.webp",
-        "Vardar": "assets/logos/upstreams/vardar.webp"
+        "Vardar": "assets/logos/upstreams/vardar.webp",
+        "Nacional": "assets/logos/upstreams/nacional.webp",
+        "Pe\u00f1arol": "assets/logos/upstreams/pe\u00f1arol.webp",
+        "Recoleta": "assets/logos/upstreams/recoleta.webp",
+        "Andrej Martin": "assets/logos/upstreams/andrej-martin.webp",
+        "Filip Cristian Jianu": "assets/logos/upstreams/filip-cristian-jianu.webp",
+        "Marco Cecchinato": "assets/logos/upstreams/marco-cecchinato.webp",
+        "Aziz Ouakaa": "assets/logos/upstreams/aziz-ouakaa.webp",
+        "James McGloughlin": "assets/logos/upstreams/james-mcgloughlin.webp",
+        "Otso Martikainen": "assets/logos/upstreams/otso-martikainen.webp",
+        "Viktor Durasovic": "assets/logos/upstreams/viktor-durasovic.webp",
+        "Jacopo Vasam\u00ec": "assets/logos/upstreams/jacopo-vasam\u00ec.webp",
+        "Florent Bax": "assets/logos/upstreams/florent-bax.webp",
+        "Gabriele Pennaforti": "assets/logos/upstreams/gabriele-pennaforti.webp",
+        "Luka Mikrut": "assets/logos/upstreams/luka-mikrut.webp",
+        "Marco Trungelliti": "assets/logos/upstreams/marco-trungelliti.webp",
+        "Garrett Johns": "assets/logos/upstreams/garrett-johns.webp",
+        "Melios Efstathiou": "assets/logos/upstreams/melios-efstathiou.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -5842,6 +5859,9 @@
         "Portugal - Taca de Portugal": "assets/logos/leagues/portugal-taca-de-portugal.webp",
         "Copa Southamericana - Qualifiers": "assets/logos/leagues/copa-southamericana-qualifiers.webp",
         "ABA League 2": "assets/logos/leagues/aba-league-2.webp",
-        "Champions Hockey League": "assets/logos/leagues/champions-hockey-league.webp"
+        "Champions Hockey League": "assets/logos/leagues/champions-hockey-league.webp",
+        "Paraguay Primera Division": "assets/logos/leagues/paraguay-primera-division.webp",
+        "Kigali, Rwanda": "assets/logos/leagues/kigali-rwanda.webp",
+        "Hersonissos, Greece": "assets/logos/leagues/hersonissos-greece.webp"
     }
 }
