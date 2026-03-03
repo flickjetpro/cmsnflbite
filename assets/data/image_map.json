@@ -5779,7 +5779,12 @@
         "Mexico Baseball": "assets/logos/streamed/mexico-baseball.webp",
         "Dominican Republic Baseball": "assets/logos/streamed/dominican-republic-baseball.webp",
         "Venezuela Baseball": "assets/logos/streamed/venezuela-baseball.webp",
-        "Puerto Rico Baseball": "assets/logos/streamed/puerto-rico-baseball.webp"
+        "Puerto Rico Baseball": "assets/logos/streamed/puerto-rico-baseball.webp",
+        "Daria Snigur": "assets/logos/upstreams/daria-snigur.webp",
+        "Vendula Valdmannova": "assets/logos/upstreams/vendula-valdmannova.webp",
+        "Emil Rast": "assets/logos/upstreams/emil-rast.webp",
+        "Benjamin Vitter": "assets/logos/upstreams/benjamin-vitter.webp",
+        "Amelia Rajecki": "assets/logos/upstreams/amelia-rajecki.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
