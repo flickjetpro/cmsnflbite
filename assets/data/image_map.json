@@ -5693,7 +5693,10 @@
         "Sweden W": "assets/logos/upstreams/sweden-w.webp",
         "Belgium W": "assets/logos/upstreams/belgium-w.webp",
         "FYR Macedonia W": "assets/logos/upstreams/fyr-macedonia-w.webp",
-        "ONICO Warszawa": "assets/logos/upstreams/onico-warszawa.webp"
+        "ONICO Warszawa": "assets/logos/upstreams/onico-warszawa.webp",
+        "Alianza Atl\u00e9tico": "assets/logos/streamed/alianza-atl\u00e9tico.webp",
+        "Erzurumspor": "assets/logos/streamed/erzurumspor.webp",
+        "Ankara Ke\u00e7i\u00f6reng\u00fcc\u00fc": "assets/logos/streamed/ankara-ke\u00e7i\u00f6reng\u00fcc\u00fc.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
