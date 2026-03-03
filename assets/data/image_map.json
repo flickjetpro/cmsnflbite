@@ -5698,7 +5698,10 @@
         "Erzurumspor": "assets/logos/streamed/erzurumspor.webp",
         "Ankara Ke\u00e7i\u00f6reng\u00fcc\u00fc": "assets/logos/streamed/ankara-ke\u00e7i\u00f6reng\u00fcc\u00fc.webp",
         "Uruguay U17": "assets/logos/streamed/uruguay-u17.webp",
-        "Argentina U17": "assets/logos/streamed/argentina-u17.webp"
+        "Argentina U17": "assets/logos/streamed/argentina-u17.webp",
+        "Manta": "assets/logos/upstreams/manta.webp",
+        "Ind del Valle": "assets/logos/upstreams/ind-del-valle.webp",
+        "Ayane Takagi": "assets/logos/upstreams/ayane-takagi.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
