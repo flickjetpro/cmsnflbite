@@ -5794,7 +5794,34 @@
         "Czech Republic": "assets/logos/streamed/czech-republic.webp",
         "Colombia Baseball": "assets/logos/streamed/colombia-baseball.webp",
         "Atletico Torque": "assets/logos/streamed/atletico-torque.webp",
-        "Boise State": "assets/logos/streamed/boise-state.webp"
+        "Boise State": "assets/logos/streamed/boise-state.webp",
+        "Club Olimpia": "assets/logos/streamed/club-olimpia.webp",
+        "Libertad FC": "assets/logos/streamed/libertad-fc.webp",
+        "Australia Baseball": "assets/logos/streamed/australia-baseball.webp",
+        "Chinese Taipei Baseball": "assets/logos/streamed/chinese-taipei-baseball.webp",
+        "South Korea Baseball": "assets/logos/streamed/south-korea-baseball.webp",
+        "Czech Republic Baseball": "assets/logos/streamed/czech-republic-baseball.webp",
+        "Pittsburgh Panthers": "assets/logos/upstreams/pittsburgh-panthers.webp",
+        "Melbourne United": "assets/logos/upstreams/melbourne-united.webp",
+        "Tasmania Jackjumpers": "assets/logos/upstreams/tasmania-jackjumpers.webp",
+        "North Carolina Central": "assets/logos/upstreams/north-carolina-central.webp",
+        "South Carolina State": "assets/logos/upstreams/south-carolina-state.webp",
+        "Novi Pazar": "assets/logos/upstreams/novi-pazar.webp",
+        "Picerno": "assets/logos/upstreams/picerno.webp",
+        "Al Kholood": "assets/logos/upstreams/al-kholood.webp",
+        "Al Qadisiya": "assets/logos/upstreams/al-qadisiya.webp",
+        "Racing Montevideo": "assets/logos/upstreams/racing-montevideo.webp",
+        "Honduras W": "assets/logos/upstreams/honduras-w.webp",
+        "Trinidad & Tobago W": "assets/logos/upstreams/trinidad-tobago-w.webp",
+        "Norway W": "assets/logos/upstreams/norway-w.webp",
+        "Poland W": "assets/logos/upstreams/poland-w.webp",
+        "HV 71": "assets/logos/upstreams/hv-71.webp",
+        "Linkopings": "assets/logos/upstreams/linkopings.webp",
+        "Switzerland W": "assets/logos/upstreams/switzerland-w.webp",
+        "Netherlands W": "assets/logos/upstreams/netherlands-w.webp",
+        "Colomiers": "assets/logos/upstreams/colomiers.webp",
+        "Brive": "assets/logos/upstreams/brive.webp",
+        "Czechia": "assets/logos/upstreams/czechia.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -6358,6 +6385,9 @@
         "Croatia Cup": "assets/logos/leagues/croatia-cup.webp",
         "OFB Cup": "assets/logos/leagues/ofb-cup.webp",
         "Antalya 2, Turkiye": "assets/logos/leagues/antalya-2-turkiye.webp",
-        "ICC Men's T20 World Cup, Semi Final": "assets/logos/leagues/icc-mens-t20-world-cup-semi-final.webp"
+        "ICC Men's T20 World Cup, Semi Final": "assets/logos/leagues/icc-mens-t20-world-cup-semi-final.webp",
+        "AFC - Champions League II - Playoff": "assets/logos/leagues/afc-champions-league-ii-playoff.webp",
+        "EHF Euro Cup W": "assets/logos/leagues/ehf-euro-cup-w.webp",
+        "World Baseball Classic, Pool C": "assets/logos/leagues/world-baseball-classic-pool-c.webp"
     }
 }
