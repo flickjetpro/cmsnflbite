@@ -5826,7 +5826,14 @@
         "Brazil Baseball": "assets/logos/streamed/brazil-baseball.webp",
         "Italy Baseball": "assets/logos/streamed/italy-baseball.webp",
         "Netherlands Baseball": "assets/logos/streamed/netherlands-baseball.webp",
-        "Great Britain Baseball": "assets/logos/streamed/great-britain-baseball.webp"
+        "Great Britain Baseball": "assets/logos/streamed/great-britain-baseball.webp",
+        "Alia\u011fa": "assets/logos/streamed/alia\u011fa.webp",
+        "Bodrum": "assets/logos/streamed/bodrum.webp",
+        "I\u011fd\u0131r": "assets/logos/streamed/i\u011fd\u0131r.webp",
+        "Alianza Valledupar": "assets/logos/streamed/alianza-valledupar.webp",
+        "Orense SC": "assets/logos/streamed/orense-sc.webp",
+        "Macara": "assets/logos/streamed/macara.webp",
+        "Waratahs": "assets/logos/streamed/waratahs.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
