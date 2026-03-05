@@ -6117,7 +6117,12 @@
         "Malmo": "assets/logos/upstreams/malmo.webp",
         "Farjestad": "assets/logos/upstreams/farjestad.webp",
         "Leksand": "assets/logos/upstreams/leksand.webp",
-        "Tadeo Meneo": "assets/logos/upstreams/tadeo-meneo.webp"
+        "Tadeo Meneo": "assets/logos/upstreams/tadeo-meneo.webp",
+        "Petrojet": "assets/logos/upstreams/petrojet.webp",
+        "National Bank of Egypt": "assets/logos/upstreams/national-bank-of-egypt.webp",
+        "Colomiers Rugby": "assets/logos/upstreams/colomiers-rugby.webp",
+        "CA Brive": "assets/logos/upstreams/ca-brive.webp",
+        "Beograd Woodville": "assets/logos/upstreams/beograd-woodville.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
