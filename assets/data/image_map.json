@@ -5919,7 +5919,12 @@
         "England U20": "assets/logos/upstreams/england-u20.webp",
         "UPCN": "assets/logos/upstreams/upcn.webp",
         "San Lorenzo de Almagro": "assets/logos/upstreams/san-lorenzo-de-almagro.webp",
-        "Hrvace": "assets/logos/upstreams/hrvace.webp"
+        "Hrvace": "assets/logos/upstreams/hrvace.webp",
+        "Metropolitanos FC": "assets/logos/streamed/metropolitanos-fc.webp",
+        "New South Wales Waratahs": "assets/logos/streamed/new-south-wales-waratahs.webp",
+        "Japan Baseball": "assets/logos/streamed/japan-baseball.webp",
+        "Panama Baseball": "assets/logos/streamed/panama-baseball.webp",
+        "Cuba Baseball": "assets/logos/streamed/cuba-baseball.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
