@@ -6125,7 +6125,10 @@
         "Beograd Woodville": "assets/logos/upstreams/beograd-woodville.webp",
         "Louisiana Tech": "assets/logos/streamed/louisiana-tech.webp",
         "UTEP": "assets/logos/streamed/utep.webp",
-        "Joachim Szamborski": "assets/logos/upstreams/joachim-szamborski.webp"
+        "Joachim Szamborski": "assets/logos/upstreams/joachim-szamborski.webp",
+        "Nicolas Zanellato": "assets/logos/upstreams/nicolas-zanellato.webp",
+        "Luke Littler": "assets/logos/upstreams/luke-littler.webp",
+        "Josh Rock": "assets/logos/upstreams/josh-rock.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -6736,6 +6739,7 @@
         "USA - NHL": "assets/logos/leagues/usa-nhl.webp",
         "Austria - ICE League - Playoff": "assets/logos/leagues/austria-ice-league-playoff.webp",
         "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
-        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp"
+        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp",
+        "Premier League, Night 5": "assets/logos/leagues/premier-league-night-5.webp"
     }
 }
