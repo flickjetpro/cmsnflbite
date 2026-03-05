@@ -5940,7 +5940,26 @@
         "Wipptal Broncos": "assets/logos/upstreams/wipptal-broncos.webp",
         "Norbert Marosik": "assets/logos/upstreams/norbert-marosik.webp",
         "Aaron Gil Garcia": "assets/logos/upstreams/aaron-gil-garcia.webp",
-        "Titans": "assets/logos/upstreams/titans.webp"
+        "Titans": "assets/logos/upstreams/titans.webp",
+        "Gladbach": "assets/logos/upstreams/gladbach.webp",
+        "Atlanta Hawks --- HD": "assets/logos/upstreams/atlanta-hawks-hd.webp",
+        "FAR Rabat": "assets/logos/upstreams/far-rabat.webp",
+        "Jake Delaney": "assets/logos/upstreams/jake-delaney.webp",
+        "LDLC ASVEL Lyon-Villeurbanne": "assets/logos/upstreams/ldlc-asvel-lyon-villeurbanne.webp",
+        "Pully Lausanne Foxes": "assets/logos/upstreams/pully-lausanne-foxes.webp",
+        "Poitiers Basket 86": "assets/logos/upstreams/poitiers-basket-86.webp",
+        "Champagne Chalons-Reims": "assets/logos/upstreams/champagne-chalons-reims.webp",
+        "Saint-Chamond Andrezieux Basket": "assets/logos/upstreams/saint-chamond-andrezieux-basket.webp",
+        "Aix Maurienne Savoie Basket": "assets/logos/upstreams/aix-maurienne-savoie-basket.webp",
+        "Northern Illinois Huskies": "assets/logos/upstreams/northern-illinois-huskies.webp",
+        "Acad\u00e9mico Viseu FC": "assets/logos/upstreams/acad\u00e9mico-viseu-fc.webp",
+        "Al-Ahli Doha": "assets/logos/upstreams/al-ahli-doha.webp",
+        "Al-Arabi SC": "assets/logos/upstreams/al-arabi-sc.webp",
+        "FK Vele\u017e Mostar": "assets/logos/upstreams/fk-vele\u017e-mostar.webp",
+        "H\u0160K Posu\u0161je": "assets/logos/upstreams/h\u0161k-posu\u0161je.webp",
+        "Avtomobilist Yekaterinburg": "assets/logos/upstreams/avtomobilist-yekaterinburg.webp",
+        "EON Horneo Alicante": "assets/logos/upstreams/eon-horneo-alicante.webp",
+        "UPCN Voley": "assets/logos/upstreams/upcn-voley.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -6527,6 +6546,11 @@
         "Eastonia - Esiliiga A": "assets/logos/leagues/eastonia-esiliiga-a.webp",
         "Poland - Cup": "assets/logos/leagues/poland-cup.webp",
         "Finland - KorisLeague - The losers' tour": "assets/logos/leagues/finland-korisleague-the-losers-tour.webp",
-        "Zimbabwe Women in New Zealand, 3 ODI Series": "assets/logos/leagues/zimbabwe-women-in-new-zealand-3-odi-series.webp"
+        "Zimbabwe Women in New Zealand, 3 ODI Series": "assets/logos/leagues/zimbabwe-women-in-new-zealand-3-odi-series.webp",
+        "Scottish Cup": "assets/logos/leagues/scottish-cup.webp",
+        "\u00c9lite 2": "assets/logos/leagues/\u00e9lite-2.webp",
+        "Liga Argentina, Playoffs": "assets/logos/leagues/liga-argentina-playoffs.webp",
+        "World Baseball Classic, Pool B": "assets/logos/leagues/world-baseball-classic-pool-b.webp",
+        "World Baseball Classic, Pool A": "assets/logos/leagues/world-baseball-classic-pool-a.webp"
     }
 }
