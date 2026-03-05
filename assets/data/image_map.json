@@ -5924,7 +5924,23 @@
         "New South Wales Waratahs": "assets/logos/streamed/new-south-wales-waratahs.webp",
         "Japan Baseball": "assets/logos/streamed/japan-baseball.webp",
         "Panama Baseball": "assets/logos/streamed/panama-baseball.webp",
-        "Cuba Baseball": "assets/logos/streamed/cuba-baseball.webp"
+        "Cuba Baseball": "assets/logos/streamed/cuba-baseball.webp",
+        "Zalgiris": "assets/logos/upstreams/zalgiris.webp",
+        "Tartu JK Welco": "assets/logos/upstreams/tartu-jk-welco.webp",
+        "Tallinna Kalev": "assets/logos/upstreams/tallinna-kalev.webp",
+        "Avia Swidnik": "assets/logos/upstreams/avia-swidnik.webp",
+        "Rakow CzEastochowa": "assets/logos/upstreams/rakow-czeastochowa.webp",
+        "Garage FC": "assets/logos/upstreams/garage-fc.webp",
+        "Inter Stars": "assets/logos/upstreams/inter-stars.webp",
+        "HK Zemgale/Llu": "assets/logos/upstreams/hk-zemgalellu.webp",
+        "Italy (W)": "assets/logos/upstreams/italy-w.webp",
+        "Korikobrat": "assets/logos/upstreams/korikobrat.webp",
+        "Pyrinto Tampere": "assets/logos/upstreams/pyrinto-tampere.webp",
+        "EC Pinheiros": "assets/logos/upstreams/ec-pinheiros.webp",
+        "Wipptal Broncos": "assets/logos/upstreams/wipptal-broncos.webp",
+        "Norbert Marosik": "assets/logos/upstreams/norbert-marosik.webp",
+        "Aaron Gil Garcia": "assets/logos/upstreams/aaron-gil-garcia.webp",
+        "Titans": "assets/logos/upstreams/titans.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -6506,6 +6522,11 @@
         "Stars League": "assets/logos/leagues/stars-league.webp",
         "Scottish FA Cup": "assets/logos/leagues/scottish-fa-cup.webp",
         "KHL": "assets/logos/leagues/khl.webp",
-        "Six Nations U20": "assets/logos/leagues/six-nations-u20.webp"
+        "Six Nations U20": "assets/logos/leagues/six-nations-u20.webp",
+        "Turkey Cup": "assets/logos/leagues/turkey-cup.webp",
+        "Eastonia - Esiliiga A": "assets/logos/leagues/eastonia-esiliiga-a.webp",
+        "Poland - Cup": "assets/logos/leagues/poland-cup.webp",
+        "Finland - KorisLeague - The losers' tour": "assets/logos/leagues/finland-korisleague-the-losers-tour.webp",
+        "Zimbabwe Women in New Zealand, 3 ODI Series": "assets/logos/leagues/zimbabwe-women-in-new-zealand-3-odi-series.webp"
     }
 }
