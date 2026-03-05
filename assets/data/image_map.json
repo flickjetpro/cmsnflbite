@@ -6111,7 +6111,13 @@
         "Goa": "assets/logos/upstreams/goa.webp",
         "Daniel Antonio Nunez": "assets/logos/upstreams/daniel-antonio-nunez.webp",
         "Anja Strausak": "assets/logos/upstreams/anja-strausak.webp",
-        "Lole Courtois": "assets/logos/upstreams/lole-courtois.webp"
+        "Lole Courtois": "assets/logos/upstreams/lole-courtois.webp",
+        "Vaxjo": "assets/logos/upstreams/vaxjo.webp",
+        "Djurgarden": "assets/logos/upstreams/djurgarden.webp",
+        "Malmo": "assets/logos/upstreams/malmo.webp",
+        "Farjestad": "assets/logos/upstreams/farjestad.webp",
+        "Leksand": "assets/logos/upstreams/leksand.webp",
+        "Tadeo Meneo": "assets/logos/upstreams/tadeo-meneo.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -6721,6 +6727,7 @@
         "India - I-League": "assets/logos/leagues/india-i-league.webp",
         "USA - NHL": "assets/logos/leagues/usa-nhl.webp",
         "Austria - ICE League - Playoff": "assets/logos/leagues/austria-ice-league-playoff.webp",
-        "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp"
+        "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
+        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp"
     }
 }
