@@ -6420,7 +6420,9 @@
         "Kisvarda": "assets/logos/upstreams/kisvarda.webp",
         "Puskas Akademia": "assets/logos/upstreams/puskas-akademia.webp",
         "Faroe Islands": "assets/logos/upstreams/faroe-islands.webp",
-        "Eastern Michigan": "assets/logos/streamed/eastern-michigan.webp"
+        "Eastern Michigan": "assets/logos/streamed/eastern-michigan.webp",
+        "Le Portel": "assets/logos/upstreams/le-portel.webp",
+        "Saint-Quentin": "assets/logos/upstreams/saint-quentin.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -7078,6 +7080,7 @@
         "FIFA World Cup, Women, Qualification, UEFA, Gr. A1": "assets/logos/leagues/fifa-world-cup-women-qualification-uefa-gr-a1.webp",
         "Champions League Americas, Knockout stage": "assets/logos/leagues/champions-league-americas-knockout-stage.webp",
         "Ukraine Premier League": "assets/logos/leagues/ukraine-premier-league.webp",
-        "FIFA World Cup, Women, Qualification, UEFA, Gr. C4": "assets/logos/leagues/fifa-world-cup-women-qualification-uefa-gr-c4.webp"
+        "FIFA World Cup, Women, Qualification, UEFA, Gr. C4": "assets/logos/leagues/fifa-world-cup-women-qualification-uefa-gr-c4.webp",
+        "France Pro A": "assets/logos/leagues/france-pro-a.webp"
     }
 }
