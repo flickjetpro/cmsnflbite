@@ -6342,7 +6342,9 @@
         "Gunners Oberwart": "assets/logos/upstreams/gunners-oberwart.webp",
         "LSU Tigers": "assets/logos/upstreams/lsu-tigers.webp",
         "Bucheon FC 1995": "assets/logos/upstreams/bucheon-fc-1995.webp",
-        "Olga Molchanova": "assets/logos/upstreams/olga-molchanova.webp"
+        "Olga Molchanova": "assets/logos/upstreams/olga-molchanova.webp",
+        "Brisbane Broncos": "assets/logos/streamed/brisbane-broncos.webp",
+        "Penrith Panthers": "assets/logos/streamed/penrith-panthers.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
