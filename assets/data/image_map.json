@@ -6411,7 +6411,12 @@
         "Reinier de Ridder": "assets/logos/streamed/reinier-de-ridder.webp",
         "Caio Borralho": "assets/logos/streamed/caio-borralho.webp",
         "Charles Oliveira": "assets/logos/streamed/charles-oliveira.webp",
-        "Max Holloway": "assets/logos/streamed/max-holloway.webp"
+        "Max Holloway": "assets/logos/streamed/max-holloway.webp",
+        "Anguilla (W)": "assets/logos/upstreams/anguilla-w.webp",
+        "Dominican Republic (W)": "assets/logos/upstreams/dominican-republic-w.webp",
+        "Thanh Hoa": "assets/logos/upstreams/thanh-hoa.webp",
+        "Osaka": "assets/logos/upstreams/osaka.webp",
+        "Shizuka Sakurada": "assets/logos/upstreams/shizuka-sakurada.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -7067,6 +7072,7 @@
         "Seven's World Series Women": "assets/logos/leagues/sevens-world-series-women.webp",
         "Major League Soccer": "assets/logos/leagues/major-league-soccer.webp",
         "FIFA World Cup, Women, Qualification, UEFA, Gr. A1": "assets/logos/leagues/fifa-world-cup-women-qualification-uefa-gr-a1.webp",
-        "Champions League Americas, Knockout stage": "assets/logos/leagues/champions-league-americas-knockout-stage.webp"
+        "Champions League Americas, Knockout stage": "assets/logos/leagues/champions-league-americas-knockout-stage.webp",
+        "Ukraine Premier League": "assets/logos/leagues/ukraine-premier-league.webp"
     }
 }
