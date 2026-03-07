@@ -6828,7 +6828,11 @@
         "St Bonaventure": "assets/logos/streamed/st-bonaventure.webp",
         "North Dakota": "assets/logos/streamed/north-dakota.webp",
         "Omaha": "assets/logos/streamed/omaha.webp",
-        "UC Davis": "assets/logos/streamed/uc-davis.webp"
+        "UC Davis": "assets/logos/streamed/uc-davis.webp",
+        "Gloria": "assets/logos/upstreams/gloria.webp",
+        "Academia Pervanciuc": "assets/logos/upstreams/academia-pervanciuc.webp",
+        "BCM Gravelines-Dunkerque": "assets/logos/upstreams/bcm-gravelines-dunkerque.webp",
+        "Boulazac Basket": "assets/logos/upstreams/boulazac-basket.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
