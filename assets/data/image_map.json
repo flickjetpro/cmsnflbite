@@ -6889,7 +6889,9 @@
         "HK Prizma Riga": "assets/logos/streamed/hk-prizma-riga.webp",
         "Aris BC": "assets/logos/streamed/aris-bc.webp",
         "Maroussi B.C.": "assets/logos/streamed/maroussi-bc.webp",
-        "Deportivo Moquegua": "assets/logos/streamed/deportivo-moquegua.webp"
+        "Deportivo Moquegua": "assets/logos/streamed/deportivo-moquegua.webp",
+        "Peristeri BC": "assets/logos/streamed/peristeri-bc.webp",
+        "Panionios BC": "assets/logos/streamed/panionios-bc.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
