@@ -6783,7 +6783,34 @@
         "Parma Basket": "assets/logos/streamed/parma-basket.webp",
         "HC Izhstal": "assets/logos/streamed/hc-izhstal.webp",
         "Toros Neftekamsk": "assets/logos/streamed/toros-neftekamsk.webp",
-        "Bars Kazan": "assets/logos/streamed/bars-kazan.webp"
+        "Bars Kazan": "assets/logos/streamed/bars-kazan.webp",
+        "Philippine Army": "assets/logos/upstreams/philippine-army.webp",
+        "Addis Ababa City": "assets/logos/upstreams/addis-ababa-city.webp",
+        "Titan Baschet": "assets/logos/upstreams/titan-baschet.webp",
+        "Soroca": "assets/logos/upstreams/soroca.webp",
+        "UE Mataro": "assets/logos/upstreams/ue-mataro.webp",
+        "Cb Getafe": "assets/logos/upstreams/cb-getafe.webp",
+        "UDW Alligators": "assets/logos/upstreams/udw-alligators.webp",
+        "Nyon Basket F\u00e9minin": "assets/logos/upstreams/nyon-basket-f\u00e9minin.webp",
+        "Anorthosis Famagusta": "assets/logos/upstreams/anorthosis-famagusta.webp",
+        "ETHA Engomis": "assets/logos/upstreams/etha-engomis.webp",
+        "KK Pirot": "assets/logos/upstreams/kk-pirot.webp",
+        "Sol Girones Bisbal": "assets/logos/upstreams/sol-girones-bisbal.webp",
+        "Amics Castell\u00f3": "assets/logos/upstreams/amics-castell\u00f3.webp",
+        "Ivanjica": "assets/logos/upstreams/ivanjica.webp",
+        "Worthersee Piraten": "assets/logos/upstreams/worthersee-piraten.webp",
+        "Basquet Sant Antoni": "assets/logos/upstreams/basquet-sant-antoni.webp",
+        "Molina Basket": "assets/logos/upstreams/molina-basket.webp",
+        "Caceres Patrimonio de La Humanidad": "assets/logos/upstreams/caceres-patrimonio-de-la-humanidad.webp",
+        "CB Mor\u00f3n": "assets/logos/upstreams/cb-mor\u00f3n.webp",
+        "Club Baloncesto Pe\u00f1as": "assets/logos/upstreams/club-baloncesto-pe\u00f1as.webp",
+        "UPB Gandia": "assets/logos/upstreams/upb-gandia.webp",
+        "Jelena Ostapenko": "assets/logos/upstreams/jelena-ostapenko.webp",
+        "Flamengo U20": "assets/logos/upstreams/flamengo-u20.webp",
+        "Estudiantes de M\u00e9rida U20": "assets/logos/upstreams/estudiantes-de-m\u00e9rida-u20.webp",
+        "Greta Maric": "assets/logos/upstreams/greta-maric.webp",
+        "Tallulah Van Coppenolle": "assets/logos/upstreams/tallulah-van-coppenolle.webp",
+        "Clara Lassaux": "assets/logos/upstreams/clara-lassaux.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -7462,6 +7489,9 @@
         "ICC Men's T20 World Cup, Final": "assets/logos/leagues/icc-mens-t20-world-cup-final.webp",
         "Spain - ACB": "assets/logos/leagues/spain-acb.webp",
         "HockeyEttan, Qualification Playoffs": "assets/logos/leagues/hockeyettan-qualification-playoffs.webp",
-        "San Marino - Championshipo Sammarinese": "assets/logos/leagues/san-marino-championshipo-sammarinese.webp"
+        "San Marino - Championshipo Sammarinese": "assets/logos/leagues/san-marino-championshipo-sammarinese.webp",
+        "Segunda FEB, Group East": "assets/logos/leagues/segunda-feb-group-east.webp",
+        "Segunda FEB, Group West": "assets/logos/leagues/segunda-feb-group-west.webp",
+        "U20 CONMEBOL Libertadores, Group A": "assets/logos/leagues/u20-conmebol-libertadores-group-a.webp"
     }
 }
