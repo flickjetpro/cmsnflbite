@@ -6669,7 +6669,9 @@
         "Kazakhstan Women": "assets/logos/streamed/kazakhstan-women.webp",
         "Belarus Women": "assets/logos/streamed/belarus-women.webp",
         "Chrudim": "assets/logos/streamed/chrudim.webp",
-        "Opava": "assets/logos/streamed/opava.webp"
+        "Opava": "assets/logos/streamed/opava.webp",
+        "HC Zvezda Moscow": "assets/logos/streamed/hc-zvezda-moscow.webp",
+        "HC Chelny": "assets/logos/streamed/hc-chelny.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
