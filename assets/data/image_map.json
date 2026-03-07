@@ -6943,7 +6943,9 @@
         "Princeton": "assets/logos/streamed/princeton.webp",
         "Dartmouth": "assets/logos/streamed/dartmouth.webp",
         "Pallacanestro Reggiana": "assets/logos/streamed/pallacanestro-reggiana.webp",
-        "Pallacanestro Trieste": "assets/logos/streamed/pallacanestro-trieste.webp"
+        "Pallacanestro Trieste": "assets/logos/streamed/pallacanestro-trieste.webp",
+        "Vermont": "assets/logos/streamed/vermont.webp",
+        "Bryant": "assets/logos/streamed/bryant.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
