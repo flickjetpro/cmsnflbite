@@ -6832,7 +6832,13 @@
         "Gloria": "assets/logos/upstreams/gloria.webp",
         "Academia Pervanciuc": "assets/logos/upstreams/academia-pervanciuc.webp",
         "BCM Gravelines-Dunkerque": "assets/logos/upstreams/bcm-gravelines-dunkerque.webp",
-        "Boulazac Basket": "assets/logos/upstreams/boulazac-basket.webp"
+        "Boulazac Basket": "assets/logos/upstreams/boulazac-basket.webp",
+        "BC Avtodor Saratov": "assets/logos/streamed/bc-avtodor-saratov.webp",
+        "Uralmash Ekaterinburg": "assets/logos/streamed/uralmash-ekaterinburg.webp",
+        "Sabah": "assets/logos/streamed/sabah.webp",
+        "Rostov": "assets/logos/streamed/rostov.webp",
+        "FH Hafnarfjordur": "assets/logos/streamed/fh-hafnarfjordur.webp",
+        "Moss": "assets/logos/streamed/moss.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
