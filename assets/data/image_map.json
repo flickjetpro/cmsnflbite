@@ -6559,7 +6559,31 @@
         "Canada Women": "assets/logos/streamed/canada-women.webp",
         "Argentina Women": "assets/logos/streamed/argentina-women.webp",
         "USA Women": "assets/logos/streamed/usa-women.webp",
-        "Colombia Women": "assets/logos/streamed/colombia-women.webp"
+        "Colombia Women": "assets/logos/streamed/colombia-women.webp",
+        "NK Brinje Grosuplje": "assets/logos/upstreams/nk-brinje-grosuplje.webp",
+        "FK Radnik Surdulica": "assets/logos/upstreams/fk-radnik-surdulica.webp",
+        "Eintracht Norderstedt": "assets/logos/upstreams/eintracht-norderstedt.webp",
+        "FC St Pauli II U23": "assets/logos/upstreams/fc-st-pauli-ii-u23.webp",
+        "NK Maribor": "assets/logos/upstreams/nk-maribor.webp",
+        "FK Napredak Kru\u0161evac": "assets/logos/upstreams/fk-napredak-kru\u0161evac.webp",
+        "FK Spartak Subotica": "assets/logos/upstreams/fk-spartak-subotica.webp",
+        "FK IMT Beograd": "assets/logos/upstreams/fk-imt-beograd.webp",
+        "Mar\u00edtimo": "assets/logos/upstreams/mar\u00edtimo.webp",
+        "CSKA Moscow": "assets/logos/upstreams/cska-moscow.webp",
+        "FK Vojvodina": "assets/logos/upstreams/fk-vojvodina.webp",
+        "Sporting CP B U21": "assets/logos/upstreams/sporting-cp-b-u21.webp",
+        "D Concepcion": "assets/logos/upstreams/d-concepcion.webp",
+        "KK Cedevita Olimpija": "assets/logos/upstreams/kk-cedevita-olimpija.webp",
+        "BC Dubai": "assets/logos/upstreams/bc-dubai.webp",
+        "U-Banca Transilvania Cluj-Napoca": "assets/logos/upstreams/u-banca-transilvania-cluj-napoca.webp",
+        "Dreamland Gran Canaria": "assets/logos/upstreams/dreamland-gran-canaria.webp",
+        "Osceola Magic": "assets/logos/upstreams/osceola-magic.webp",
+        "Central C\u00f3rdoba": "assets/logos/upstreams/central-c\u00f3rdoba.webp",
+        "Itas Trentino": "assets/logos/upstreams/itas-trentino.webp",
+        "Cucine Lube Civitanova": "assets/logos/upstreams/cucine-lube-civitanova.webp",
+        "Bergischer HC": "assets/logos/upstreams/bergischer-hc.webp",
+        "BM Torrelavega": "assets/logos/upstreams/bm-torrelavega.webp",
+        "Novak Djokovic": "assets/logos/upstreams/novak-djokovic.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -7232,6 +7256,9 @@
         "Greece - A1": "assets/logos/leagues/greece-a1.webp",
         "Australia - NPL - Tasmania": "assets/logos/leagues/australia-npl-tasmania.webp",
         "Norway - EHL - Gr.Retrogradare": "assets/logos/leagues/norway-ehl-grretrogradare.webp",
-        "Segunda Liga": "assets/logos/leagues/segunda-liga.webp"
+        "Segunda Liga": "assets/logos/leagues/segunda-liga.webp",
+        "ABA Liga, Championship Round": "assets/logos/leagues/aba-liga-championship-round.webp",
+        "Serie A1, Playoffs": "assets/logos/leagues/serie-a1-playoffs.webp",
+        "ICC Men's T20 World Cup, Final": "assets/logos/leagues/icc-mens-t20-world-cup-final.webp"
     }
 }
