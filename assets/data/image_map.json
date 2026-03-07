@@ -6973,7 +6973,12 @@
         "Sporting Cristal U20": "assets/logos/upstreams/sporting-cristal-u20.webp",
         "Olimpia U20": "assets/logos/upstreams/olimpia-u20.webp",
         "Alexde Minaur": "assets/logos/upstreams/alexde-minaur.webp",
-        "Greensboro Swarm": "assets/logos/streamed/greensboro-swarm.webp"
+        "Greensboro Swarm": "assets/logos/streamed/greensboro-swarm.webp",
+        "Samford": "assets/logos/streamed/samford.webp",
+        "Furman": "assets/logos/streamed/furman.webp",
+        "Marist": "assets/logos/streamed/marist.webp",
+        "Olancho": "assets/logos/streamed/olancho.webp",
+        "Platense Puerto Cort\u00e9s": "assets/logos/streamed/platense-puerto-cort\u00e9s.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
