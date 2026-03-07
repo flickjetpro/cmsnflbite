@@ -6939,7 +6939,11 @@
         "HC Fribourg-Gott\u00e9ron": "assets/logos/streamed/hc-fribourg-gott\u00e9ron.webp",
         "Zug": "assets/logos/streamed/zug.webp",
         "RWDM Brussels": "assets/logos/streamed/rwdm-brussels.webp",
-        "Olympiacos Piraeus Basketball": "assets/logos/streamed/olympiacos-piraeus-basketball.webp"
+        "Olympiacos Piraeus Basketball": "assets/logos/streamed/olympiacos-piraeus-basketball.webp",
+        "Princeton": "assets/logos/streamed/princeton.webp",
+        "Dartmouth": "assets/logos/streamed/dartmouth.webp",
+        "Pallacanestro Reggiana": "assets/logos/streamed/pallacanestro-reggiana.webp",
+        "Pallacanestro Trieste": "assets/logos/streamed/pallacanestro-trieste.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
