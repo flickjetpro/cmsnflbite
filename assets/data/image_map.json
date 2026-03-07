@@ -6536,7 +6536,23 @@
         "Lietkabelis": "assets/logos/upstreams/lietkabelis.webp",
         "FC Naples": "assets/logos/upstreams/fc-naples.webp",
         "Fort Wayne FC": "assets/logos/upstreams/fort-wayne-fc.webp",
-        "Radford": "assets/logos/streamed/radford.webp"
+        "Radford": "assets/logos/streamed/radford.webp",
+        "South Bay Lakers": "assets/logos/streamed/south-bay-lakers.webp",
+        "Launceston United": "assets/logos/streamed/launceston-united.webp",
+        "Devonport City": "assets/logos/streamed/devonport-city.webp",
+        "Orix Buffaloes": "assets/logos/streamed/orix-buffaloes.webp",
+        "Yomiuri Giants": "assets/logos/streamed/yomiuri-giants.webp",
+        "Hokkaido Nippon-Ham Fighters": "assets/logos/streamed/hokkaido-nippon-ham-fighters.webp",
+        "Chiba Lotte Marines": "assets/logos/streamed/chiba-lotte-marines.webp",
+        "Yokohama F Marinos": "assets/logos/streamed/yokohama-f-marinos.webp",
+        "Western Bulldogs": "assets/logos/streamed/western-bulldogs.webp",
+        "Japan W": "assets/logos/streamed/japan-w.webp",
+        "1. FC Nurnberg": "assets/logos/streamed/1-fc-nurnberg.webp",
+        "Iceland W": "assets/logos/streamed/iceland-w.webp",
+        "Saitama Seibu Lions": "assets/logos/streamed/saitama-seibu-lions.webp",
+        "Tokyo Yakult Swallows": "assets/logos/streamed/tokyo-yakult-swallows.webp",
+        "Hanshin Tigers": "assets/logos/streamed/hanshin-tigers.webp",
+        "Fukuoka SoftBank Hawks": "assets/logos/streamed/fukuoka-softbank-hawks.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -7208,6 +7224,7 @@
         "USL Super League": "assets/logos/leagues/usl-super-league.webp",
         "Greece - A1": "assets/logos/leagues/greece-a1.webp",
         "Australia - NPL - Tasmania": "assets/logos/leagues/australia-npl-tasmania.webp",
-        "Norway - EHL - Gr.Retrogradare": "assets/logos/leagues/norway-ehl-grretrogradare.webp"
+        "Norway - EHL - Gr.Retrogradare": "assets/logos/leagues/norway-ehl-grretrogradare.webp",
+        "Segunda Liga": "assets/logos/leagues/segunda-liga.webp"
     }
 }
