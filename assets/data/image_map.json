@@ -6895,7 +6895,11 @@
         "SKA Saint Petersburg": "assets/logos/streamed/ska-saint-petersburg.webp",
         "Tappara": "assets/logos/streamed/tappara.webp",
         "KalPa": "assets/logos/streamed/kalpa.webp",
-        "Sporting B": "assets/logos/streamed/sporting-b.webp"
+        "Sporting B": "assets/logos/streamed/sporting-b.webp",
+        "ESSM Le Portel": "assets/logos/streamed/essm-le-portel.webp",
+        "Saint-Quentin Basket-Ball": "assets/logos/streamed/saint-quentin-basket-ball.webp",
+        "Gipuzkoa Basket": "assets/logos/streamed/gipuzkoa-basket.webp",
+        "Club Ourense Baloncesto": "assets/logos/streamed/club-ourense-baloncesto.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
