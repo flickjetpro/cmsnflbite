@@ -6778,7 +6778,12 @@
         "Nakhon Ratchasima": "assets/logos/streamed/nakhon-ratchasima.webp",
         "Queen's Park": "assets/logos/streamed/queens-park.webp",
         "HC Lada Togliatti": "assets/logos/streamed/hc-lada-togliatti.webp",
-        "Chunichi Dragons": "assets/logos/streamed/chunichi-dragons.webp"
+        "Chunichi Dragons": "assets/logos/streamed/chunichi-dragons.webp",
+        "PBC MBA Moscow": "assets/logos/streamed/pbc-mba-moscow.webp",
+        "Parma Basket": "assets/logos/streamed/parma-basket.webp",
+        "HC Izhstal": "assets/logos/streamed/hc-izhstal.webp",
+        "Toros Neftekamsk": "assets/logos/streamed/toros-neftekamsk.webp",
+        "Bars Kazan": "assets/logos/streamed/bars-kazan.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
