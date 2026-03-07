@@ -6934,7 +6934,10 @@
         "BYU": "assets/logos/streamed/byu.webp",
         "Ambri-Piotta": "assets/logos/streamed/ambri-piotta.webp",
         "Bern": "assets/logos/streamed/bern.webp",
-        "Dinamo Basket Sassari": "assets/logos/streamed/dinamo-basket-sassari.webp"
+        "Dinamo Basket Sassari": "assets/logos/streamed/dinamo-basket-sassari.webp",
+        "BC Andorra": "assets/logos/streamed/bc-andorra.webp",
+        "HC Fribourg-Gott\u00e9ron": "assets/logos/streamed/hc-fribourg-gott\u00e9ron.webp",
+        "Zug": "assets/logos/streamed/zug.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
