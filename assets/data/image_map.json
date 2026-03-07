@@ -6852,7 +6852,9 @@
         "Dukla Praha": "assets/logos/streamed/dukla-praha.webp",
         "BC Juventus": "assets/logos/streamed/bc-juventus.webp",
         "BC Lietkabelis": "assets/logos/streamed/bc-lietkabelis.webp",
-        "St Johnstone": "assets/logos/streamed/st-johnstone.webp"
+        "St Johnstone": "assets/logos/streamed/st-johnstone.webp",
+        "SaiPa": "assets/logos/streamed/saipa.webp",
+        "Pelicans": "assets/logos/streamed/pelicans.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
