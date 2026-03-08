@@ -7371,7 +7371,13 @@
         "Standard Li\u00e8ge": "assets/logos/streamed/standard-li\u00e8ge.webp",
         "CB Gran Canaria": "assets/logos/streamed/cb-gran-canaria.webp",
         "Estudiantes": "assets/logos/streamed/estudiantes.webp",
-        "CB Menorca": "assets/logos/streamed/cb-menorca.webp"
+        "CB Menorca": "assets/logos/streamed/cb-menorca.webp",
+        "Spartans Distrito Capital": "assets/logos/upstreams/spartans-distrito-capital.webp",
+        "Guaiquer\u00edes de Margarita": "assets/logos/upstreams/guaiquer\u00edes-de-margarita.webp",
+        "Piotr Galus": "assets/logos/upstreams/piotr-galus.webp",
+        "Michael Fernandez": "assets/logos/upstreams/michael-fernandez.webp",
+        "Lawrence Bataljin": "assets/logos/upstreams/lawrence-bataljin.webp",
+        "Moka Ito": "assets/logos/upstreams/moka-ito.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8076,6 +8082,7 @@
         "Italy - Serie B - Gr.A": "assets/logos/leagues/italy-serie-b-gra.webp",
         "Spain - Primera Federacion - Gr.1": "assets/logos/leagues/spain-primera-federacion-gr1.webp",
         "Cherbourg-en-Cotentin, France, Qualifying": "assets/logos/leagues/cherbourg-en-cotentin-france-qualifying.webp",
-        "Nigeria - Premier League": "assets/logos/leagues/nigeria-premier-league.webp"
+        "Nigeria - Premier League": "assets/logos/leagues/nigeria-premier-league.webp",
+        "Kigali 2, Rwanda": "assets/logos/leagues/kigali-2-rwanda.webp"
     }
 }
