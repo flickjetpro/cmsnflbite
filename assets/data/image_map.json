@@ -6989,7 +6989,13 @@
         "Studentski Centar": "assets/logos/upstreams/studentski-centar.webp",
         "Cantu": "assets/logos/upstreams/cantu.webp",
         "Heidelberg": "assets/logos/upstreams/heidelberg.webp",
-        "Leonesa": "assets/logos/upstreams/leonesa.webp"
+        "Leonesa": "assets/logos/upstreams/leonesa.webp",
+        "D.C. United": "assets/logos/upstreams/dc-united.webp",
+        "Sporting JAX": "assets/logos/streamed/sporting-jax.webp",
+        "Sarasota Paradise": "assets/logos/streamed/sarasota-paradise.webp",
+        "AC Boise": "assets/logos/streamed/ac-boise.webp",
+        "Utah Tech": "assets/logos/streamed/utah-tech.webp",
+        "Utah Valley": "assets/logos/streamed/utah-valley.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
