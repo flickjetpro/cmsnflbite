@@ -7181,7 +7181,9 @@
         "Zorya Luhansk": "assets/logos/streamed/zorya-luhansk.webp",
         "Poltava": "assets/logos/streamed/poltava.webp",
         "Wuhan Three Towns": "assets/logos/streamed/wuhan-three-towns.webp",
-        "PAOK BC": "assets/logos/streamed/paok-bc.webp"
+        "PAOK BC": "assets/logos/streamed/paok-bc.webp",
+        "BC Lokomotiv Plovdiv": "assets/logos/streamed/bc-lokomotiv-plovdiv.webp",
+        "BC Cherno More": "assets/logos/streamed/bc-cherno-more.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
