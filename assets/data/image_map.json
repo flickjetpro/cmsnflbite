@@ -7396,7 +7396,11 @@
         "KK Bosna": "assets/logos/upstreams/kk-bosna.webp",
         "Ignacio Antonio Becerra Otarola": "assets/logos/upstreams/ignacio-antonio-becerra-otarola.webp",
         "Allen Americans": "assets/logos/upstreams/allen-americans.webp",
-        "Paul Jubb": "assets/logos/upstreams/paul-jubb.webp"
+        "Paul Jubb": "assets/logos/upstreams/paul-jubb.webp",
+        "Barra": "assets/logos/streamed/barra.webp",
+        "Cavalier": "assets/logos/streamed/cavalier.webp",
+        "USM Alger": "assets/logos/streamed/usm-alger.webp",
+        "CS Constantine": "assets/logos/streamed/cs-constantine.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
