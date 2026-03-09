@@ -7631,7 +7631,15 @@
         "Mar\u00edtimo U23": "assets/logos/upstreams/mar\u00edtimo-u23.webp",
         "Gray Kelley": "assets/logos/upstreams/gray-kelley.webp",
         "Tristan Berard": "assets/logos/upstreams/tristan-berard.webp",
-        "Pepijn Bastiaansen": "assets/logos/upstreams/pepijn-bastiaansen.webp"
+        "Pepijn Bastiaansen": "assets/logos/upstreams/pepijn-bastiaansen.webp",
+        "Persik Kediri": "assets/logos/upstreams/persik-kediri.webp",
+        "North East Utd": "assets/logos/upstreams/north-east-utd.webp",
+        "Kayseri": "assets/logos/upstreams/kayseri.webp",
+        "Trabzon": "assets/logos/upstreams/trabzon.webp",
+        "Addis Ketema": "assets/logos/upstreams/addis-ketema.webp",
+        "Dessie Ketema": "assets/logos/upstreams/dessie-ketema.webp",
+        "Kovackova A / Kovackova J": "assets/logos/upstreams/kovackova-a-kovackova-j.webp",
+        "Hobgarski K / Vargova N": "assets/logos/upstreams/hobgarski-k-vargova-n.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8352,6 +8360,8 @@
         "U20 CONMEBOL Libertadores, Group C": "assets/logos/leagues/u20-conmebol-libertadores-group-c.webp",
         "Cap Cana, Dominican Republic, Qualifying": "assets/logos/leagues/cap-cana-dominican-republic-qualifying.webp",
         "Big Sky Conference, Playoffs": "assets/logos/leagues/big-sky-conference-playoffs.webp",
-        "Phoenix, USA, Qualifying": "assets/logos/leagues/phoenix-usa-qualifying.webp"
+        "Phoenix, USA, Qualifying": "assets/logos/leagues/phoenix-usa-qualifying.webp",
+        "Bulgaria efbet League": "assets/logos/leagues/bulgaria-efbet-league.webp",
+        "India ISL": "assets/logos/leagues/india-isl.webp"
     }
 }
