@@ -7691,7 +7691,10 @@
         "Everton U21": "assets/logos/upstreams/everton-u21.webp",
         "Leicester U21": "assets/logos/upstreams/leicester-u21.webp",
         "Troy": "assets/logos/streamed/troy.webp",
-        "Northern Kentucky": "assets/logos/streamed/northern-kentucky.webp"
+        "Northern Kentucky": "assets/logos/streamed/northern-kentucky.webp",
+        "Northern Colorado": "assets/logos/streamed/northern-colorado.webp",
+        "Hofstra": "assets/logos/streamed/hofstra.webp",
+        "Detroit": "assets/logos/streamed/detroit.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
