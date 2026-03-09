@@ -7675,7 +7675,11 @@
         "Misa Malkin": "assets/logos/upstreams/misa-malkin.webp",
         "Racing United": "assets/logos/streamed/racing-united.webp",
         "Al-Duhail": "assets/logos/streamed/al-duhail.webp",
-        "Club Nacional": "assets/logos/streamed/club-nacional.webp"
+        "Club Nacional": "assets/logos/streamed/club-nacional.webp",
+        "Horsens": "assets/logos/upstreams/horsens.webp",
+        "Sarah Victoria Majesty Nita": "assets/logos/upstreams/sarah-victoria-majesty-nita.webp",
+        "Azusa Ishii": "assets/logos/upstreams/azusa-ishii.webp",
+        "Natsumi Shioya": "assets/logos/upstreams/natsumi-shioya.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8399,6 +8403,7 @@
         "Phoenix, USA, Qualifying": "assets/logos/leagues/phoenix-usa-qualifying.webp",
         "Bulgaria efbet League": "assets/logos/leagues/bulgaria-efbet-league.webp",
         "India ISL": "assets/logos/leagues/india-isl.webp",
-        "Greece Super League": "assets/logos/leagues/greece-super-league.webp"
+        "Greece Super League": "assets/logos/leagues/greece-super-league.webp",
+        "Denmark Division 1": "assets/logos/leagues/denmark-division-1.webp"
     }
 }
