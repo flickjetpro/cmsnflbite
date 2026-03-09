@@ -7706,7 +7706,14 @@
         "HC Yugra": "assets/logos/streamed/hc-yugra.webp",
         "Khimik": "assets/logos/streamed/khimik.webp",
         "Ryazan-VDV": "assets/logos/streamed/ryazan-vdv.webp",
-        "Sporting Cascades": "assets/logos/streamed/sporting-cascades.webp"
+        "Sporting Cascades": "assets/logos/streamed/sporting-cascades.webp",
+        "Etoile Filante": "assets/logos/streamed/etoile-filante.webp",
+        "Rail Club du Kadiogo": "assets/logos/streamed/rail-club-du-kadiogo.webp",
+        "Anna Hsu": "assets/logos/upstreams/anna-hsu.webp",
+        "Mikal Statham": "assets/logos/upstreams/mikal-statham.webp",
+        "Lucia Gale": "assets/logos/upstreams/lucia-gale.webp",
+        "Jade Otway": "assets/logos/upstreams/jade-otway.webp",
+        "Roberto Cid Subervi": "assets/logos/upstreams/roberto-cid-subervi.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8433,6 +8440,7 @@
         "Greece Super League": "assets/logos/leagues/greece-super-league.webp",
         "Denmark Division 1": "assets/logos/leagues/denmark-division-1.webp",
         "WTA Indian Well": "assets/logos/leagues/wta-indian-well.webp",
-        "France Ligue 2": "assets/logos/leagues/france-ligue-2.webp"
+        "France Ligue 2": "assets/logos/leagues/france-ligue-2.webp",
+        "Cap Cana, Dominican Republic": "assets/logos/leagues/cap-cana-dominican-republic.webp"
     }
 }
