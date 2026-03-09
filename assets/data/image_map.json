@@ -7695,7 +7695,8 @@
         "Northern Colorado": "assets/logos/streamed/northern-colorado.webp",
         "Hofstra": "assets/logos/streamed/hofstra.webp",
         "Detroit": "assets/logos/streamed/detroit.webp",
-        "Regatas Corrientes": "assets/logos/streamed/regatas-corrientes.webp"
+        "Regatas Corrientes": "assets/logos/streamed/regatas-corrientes.webp",
+        "Gilles Arnaud Bailly": "assets/logos/upstreams/gilles-arnaud-bailly.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8421,6 +8422,7 @@
         "India ISL": "assets/logos/leagues/india-isl.webp",
         "Greece Super League": "assets/logos/leagues/greece-super-league.webp",
         "Denmark Division 1": "assets/logos/leagues/denmark-division-1.webp",
-        "WTA Indian Well": "assets/logos/leagues/wta-indian-well.webp"
+        "WTA Indian Well": "assets/logos/leagues/wta-indian-well.webp",
+        "France Ligue 2": "assets/logos/leagues/france-ligue-2.webp"
     }
 }
