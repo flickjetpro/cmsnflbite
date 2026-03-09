@@ -7689,7 +7689,9 @@
         "Leeds U21": "assets/logos/upstreams/leeds-u21.webp",
         "Reading U21": "assets/logos/upstreams/reading-u21.webp",
         "Everton U21": "assets/logos/upstreams/everton-u21.webp",
-        "Leicester U21": "assets/logos/upstreams/leicester-u21.webp"
+        "Leicester U21": "assets/logos/upstreams/leicester-u21.webp",
+        "Troy": "assets/logos/streamed/troy.webp",
+        "Northern Kentucky": "assets/logos/streamed/northern-kentucky.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
