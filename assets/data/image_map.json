@@ -7465,7 +7465,16 @@
         "Rahimo": "assets/logos/streamed/rahimo.webp",
         "SONABEL": "assets/logos/streamed/sonabel.webp",
         "Vitesse Burkina Faso": "assets/logos/streamed/vitesse-burkina-faso.webp",
-        "Veres Rivne": "assets/logos/streamed/veres-rivne.webp"
+        "Veres Rivne": "assets/logos/streamed/veres-rivne.webp",
+        "Defensor Sp": "assets/logos/upstreams/defensor-sp.webp",
+        "Nexe Na\u0161ice": "assets/logos/upstreams/nexe-na\u0161ice.webp",
+        "Union Touarga": "assets/logos/upstreams/union-touarga.webp",
+        "Sam Thompson": "assets/logos/upstreams/sam-thompson.webp",
+        "Riley Breen": "assets/logos/upstreams/riley-breen.webp",
+        "Sebastian Chodura": "assets/logos/upstreams/sebastian-chodura.webp",
+        "Izabela Heinzova": "assets/logos/upstreams/izabela-heinzova.webp",
+        "Simona Wirglerova": "assets/logos/upstreams/simona-wirglerova.webp",
+        "Dalila Jakupovic": "assets/logos/upstreams/dalila-jakupovic.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8178,6 +8187,8 @@
         "Horizon League, Playoffs": "assets/logos/leagues/horizon-league-playoffs.webp",
         "NBL, Playoffs": "assets/logos/leagues/nbl-playoffs.webp",
         "NBB": "assets/logos/leagues/nbb.webp",
-        "World Baseball Classic": "assets/logos/leagues/world-baseball-classic.webp"
+        "World Baseball Classic": "assets/logos/leagues/world-baseball-classic.webp",
+        "Champions League, Group K": "assets/logos/leagues/champions-league-group-k.webp",
+        "Cherbourg-en-Cotentin, France": "assets/logos/leagues/cherbourg-en-cotentin-france.webp"
     }
 }
