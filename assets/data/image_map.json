@@ -7836,7 +7836,22 @@
         "Andrea Bacaloni": "assets/logos/upstreams/andrea-bacaloni.webp",
         "Yexin MA": "assets/logos/upstreams/yexin-ma.webp",
         "DEAC": "assets/logos/streamed/deac.webp",
-        "DVTK": "assets/logos/streamed/dvtk.webp"
+        "DVTK": "assets/logos/streamed/dvtk.webp",
+        "Liverpool M": "assets/logos/upstreams/liverpool-m.webp",
+        "SG Cortina": "assets/logos/upstreams/sg-cortina.webp",
+        "Eczacibasi": "assets/logos/upstreams/eczacibasi.webp",
+        "Gianluca Brunkow": "assets/logos/upstreams/gianluca-brunkow.webp",
+        "Brice Patoux": "assets/logos/upstreams/brice-patoux.webp",
+        "Adam Jones": "assets/logos/upstreams/adam-jones.webp",
+        "Dev Javia": "assets/logos/upstreams/dev-javia.webp",
+        "Kabir Hans": "assets/logos/upstreams/kabir-hans.webp",
+        "Lai Yin Chung": "assets/logos/upstreams/lai-yin-chung.webp",
+        "Yu Xiao Tan": "assets/logos/upstreams/yu-xiao-tan.webp",
+        "Dai Wang": "assets/logos/upstreams/dai-wang.webp",
+        "Tian Yao Dong": "assets/logos/upstreams/tian-yao-dong.webp",
+        "Milena Schnider": "assets/logos/upstreams/milena-schnider.webp",
+        "Anna Siess Ryberg": "assets/logos/upstreams/anna-siess-ryberg.webp",
+        "Yvonne Li": "assets/logos/upstreams/yvonne-li.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8584,6 +8599,8 @@
         "Atlantic Coast Conference, Playoffs": "assets/logos/leagues/atlantic-coast-conference-playoffs.webp",
         "United League": "assets/logos/leagues/united-league.webp",
         "Conference USA, Playoffs": "assets/logos/leagues/conference-usa-playoffs.webp",
-        "Atlantic 10 Conference, Playoffs": "assets/logos/leagues/atlantic-10-conference-playoffs.webp"
+        "Atlantic 10 Conference, Playoffs": "assets/logos/leagues/atlantic-10-conference-playoffs.webp",
+        "Alps Hockey League, Knockout Stage": "assets/logos/leagues/alps-hockey-league-knockout-stage.webp",
+        "Volleyball": "assets/logos/leagues/volleyball.webp"
     }
 }
