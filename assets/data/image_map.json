@@ -7823,7 +7823,18 @@
         "Sheng Xuan Luo": "assets/logos/upstreams/sheng-xuan-luo.webp",
         "Thamonwan Nithiittikrai": "assets/logos/upstreams/thamonwan-nithiittikrai.webp",
         "Chi Wa Pui": "assets/logos/upstreams/chi-wa-pui.webp",
-        "Noblesville Boom": "assets/logos/streamed/noblesville-boom.webp"
+        "Noblesville Boom": "assets/logos/streamed/noblesville-boom.webp",
+        "HKK \u0160iroki": "assets/logos/upstreams/hkk-\u0161iroki.webp",
+        "MZT Skopje Aerodrom": "assets/logos/upstreams/mzt-skopje-aerodrom.webp",
+        "Parma Permsky Kray": "assets/logos/upstreams/parma-permsky-kray.webp",
+        "HC Vardar": "assets/logos/upstreams/hc-vardar.webp",
+        "New Mexico State Aggies": "assets/logos/upstreams/new-mexico-state-aggies.webp",
+        "St. Bonaventure Bonnies": "assets/logos/upstreams/st-bonaventure-bonnies.webp",
+        "Lietuvos Rytas": "assets/logos/upstreams/lietuvos-rytas.webp",
+        "Imoco Volley Conegliano": "assets/logos/upstreams/imoco-volley-conegliano.webp",
+        "Lars Goran Verwerft": "assets/logos/upstreams/lars-goran-verwerft.webp",
+        "Andrea Bacaloni": "assets/logos/upstreams/andrea-bacaloni.webp",
+        "Yexin MA": "assets/logos/upstreams/yexin-ma.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8567,6 +8578,10 @@
         "Eurocup, Playoffs": "assets/logos/leagues/eurocup-playoffs.webp",
         "FIBA World Cup Qualification, Women, Group B": "assets/logos/leagues/fiba-world-cup-qualification-women-group-b.webp",
         "Champions League, Group J": "assets/logos/leagues/champions-league-group-j.webp",
-        "DFB Pokal, Women": "assets/logos/leagues/dfb-pokal-women.webp"
+        "DFB Pokal, Women": "assets/logos/leagues/dfb-pokal-women.webp",
+        "Atlantic Coast Conference, Playoffs": "assets/logos/leagues/atlantic-coast-conference-playoffs.webp",
+        "United League": "assets/logos/leagues/united-league.webp",
+        "Conference USA, Playoffs": "assets/logos/leagues/conference-usa-playoffs.webp",
+        "Atlantic 10 Conference, Playoffs": "assets/logos/leagues/atlantic-10-conference-playoffs.webp"
     }
 }
