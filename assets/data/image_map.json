@@ -8120,7 +8120,12 @@
         "Loann Massard": "assets/logos/upstreams/loann-massard.webp",
         "Michael Agwi": "assets/logos/upstreams/michael-agwi.webp",
         "Daniel Jankoski": "assets/logos/upstreams/daniel-jankoski.webp",
-        "Kelly Keller": "assets/logos/upstreams/kelly-keller.webp"
+        "Kelly Keller": "assets/logos/upstreams/kelly-keller.webp",
+        "Vit\u00f3ria": "assets/logos/upstreams/vit\u00f3ria.webp",
+        "HC Muni": "assets/logos/upstreams/hc-muni.webp",
+        "Megabox Ondulati Del Savio Vallefoglia": "assets/logos/upstreams/megabox-ondulati-del-savio-vallefoglia.webp",
+        "Weronika Falkowska": "assets/logos/upstreams/weronika-falkowska.webp",
+        "Alicia Herrero Linana": "assets/logos/upstreams/alicia-herrero-linana.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8894,6 +8899,7 @@
         "1st Liga, Playoffs": "assets/logos/leagues/1st-liga-playoffs.webp",
         "PBA Commissioner's Cup": "assets/logos/leagues/pba-commissioners-cup.webp",
         "Big 12 Conference, Playoffs": "assets/logos/leagues/big-12-conference-playoffs.webp",
-        "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp"
+        "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp",
+        "Challenge Cup, Women": "assets/logos/leagues/challenge-cup-women.webp"
     }
 }
