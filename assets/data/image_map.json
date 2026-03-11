@@ -8111,7 +8111,14 @@
         "Min Ji Kim": "assets/logos/upstreams/min-ji-kim.webp",
         "Yi-Ting Hung": "assets/logos/upstreams/yi-ting-hung.webp",
         "Jun Hui Marcus Lau": "assets/logos/upstreams/jun-hui-marcus-lau.webp",
-        "Muhamad Yusuf": "assets/logos/upstreams/muhamad-yusuf.webp"
+        "Muhamad Yusuf": "assets/logos/upstreams/muhamad-yusuf.webp",
+        "Perak": "assets/logos/upstreams/perak.webp",
+        "Kelantan The Real Warriors": "assets/logos/upstreams/kelantan-the-real-warriors.webp",
+        "Anton Matusevich": "assets/logos/upstreams/anton-matusevich.webp",
+        "Fares Zakaria": "assets/logos/upstreams/fares-zakaria.webp",
+        "Janos Fekete": "assets/logos/upstreams/janos-fekete.webp",
+        "Loann Massard": "assets/logos/upstreams/loann-massard.webp",
+        "Michael Agwi": "assets/logos/upstreams/michael-agwi.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8883,6 +8890,8 @@
         "Slovenia - Cup": "assets/logos/leagues/slovenia-cup.webp",
         "One Day Cup, Final": "assets/logos/leagues/one-day-cup-final.webp",
         "1st Liga, Playoffs": "assets/logos/leagues/1st-liga-playoffs.webp",
-        "PBA Commissioner's Cup": "assets/logos/leagues/pba-commissioners-cup.webp"
+        "PBA Commissioner's Cup": "assets/logos/leagues/pba-commissioners-cup.webp",
+        "Big 12 Conference, Playoffs": "assets/logos/leagues/big-12-conference-playoffs.webp",
+        "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp"
     }
 }
