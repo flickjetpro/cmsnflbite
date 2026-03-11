@@ -8141,7 +8141,9 @@
         "Alkmaar": "assets/logos/upstreams/alkmaar.webp",
         "Yuzuki Miyajima": "assets/logos/upstreams/yuzuki-miyajima.webp",
         "Istanbulspor AS": "assets/logos/upstreams/istanbulspor-as.webp",
-        "Taleia Tuatao": "assets/logos/upstreams/taleia-tuatao.webp"
+        "Taleia Tuatao": "assets/logos/upstreams/taleia-tuatao.webp",
+        "Morgan State": "assets/logos/streamed/morgan-state.webp",
+        "Delaware State": "assets/logos/streamed/delaware-state.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
