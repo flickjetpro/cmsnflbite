@@ -8158,7 +8158,19 @@
         "David Brock": "assets/logos/upstreams/david-brock.webp",
         "Tam Mustafa": "assets/logos/upstreams/tam-mustafa.webp",
         "Billy Lee": "assets/logos/upstreams/billy-lee.webp",
-        "Sean O'Sullivan": "assets/logos/upstreams/sean-osullivan.webp"
+        "Sean O'Sullivan": "assets/logos/upstreams/sean-osullivan.webp",
+        "Maryland Eastern Shore Hawks": "assets/logos/upstreams/maryland-eastern-shore-hawks.webp",
+        "Ilirija": "assets/logos/upstreams/ilirija.webp",
+        "Hermine Nantes": "assets/logos/upstreams/hermine-nantes.webp",
+        "Adelaide W": "assets/logos/upstreams/adelaide-w.webp",
+        "Freiburg W": "assets/logos/upstreams/freiburg-w.webp",
+        "FAC Viena": "assets/logos/upstreams/fac-viena.webp",
+        "Kapfenberger": "assets/logos/upstreams/kapfenberger.webp",
+        "Pyramids": "assets/logos/upstreams/pyramids.webp",
+        "Lada": "assets/logos/upstreams/lada.webp",
+        "KK Krka Novo Mesto": "assets/logos/upstreams/kk-krka-novo-mesto.webp",
+        "Konstantinos Ntelis": "assets/logos/upstreams/konstantinos-ntelis.webp",
+        "Leon Aliu": "assets/logos/upstreams/leon-aliu.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -8934,6 +8946,10 @@
         "Big 12 Conference, Playoffs": "assets/logos/leagues/big-12-conference-playoffs.webp",
         "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp",
         "Challenge Cup, Women": "assets/logos/leagues/challenge-cup-women.webp",
-        "UEFA Europa Conference League, Knockout stage": "assets/logos/leagues/uefa-europa-conference-league-knockout-stage.webp"
+        "UEFA Europa Conference League, Knockout stage": "assets/logos/leagues/uefa-europa-conference-league-knockout-stage.webp",
+        "Mid-Eastern Athletic Conference, Playoffs": "assets/logos/leagues/mid-eastern-athletic-conference-playoffs.webp",
+        "A-League, Women": "assets/logos/leagues/a-league-women.webp",
+        "CAF Champions League": "assets/logos/leagues/caf-champions-league.webp",
+        "AFC Asian Cup, Women, Knockout stage": "assets/logos/leagues/afc-asian-cup-women-knockout-stage.webp"
     }
 }
