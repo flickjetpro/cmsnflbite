@@ -8419,7 +8419,18 @@
         "San Diego Wave W": "assets/logos/streamed/san-diego-wave-w.webp",
         "Houston Dash W": "assets/logos/streamed/houston-dash-w.webp",
         "Aston Villa W": "assets/logos/streamed/aston-villa-w.webp",
-        "Leicester City WFC": "assets/logos/streamed/leicester-city-wfc.webp"
+        "Leicester City WFC": "assets/logos/streamed/leicester-city-wfc.webp",
+        "Prairie View A and M": "assets/logos/streamed/prairie-view-a-and-m.webp",
+        "Cal State-Northridge": "assets/logos/streamed/cal-state-northridge.webp",
+        "Villars Basket": "assets/logos/upstreams/villars-basket.webp",
+        "Jagodina": "assets/logos/upstreams/jagodina.webp",
+        "Vienna DC": "assets/logos/upstreams/vienna-dc.webp",
+        "Kolubara": "assets/logos/upstreams/kolubara.webp",
+        "Greenville Triumph SC": "assets/logos/upstreams/greenville-triumph-sc.webp",
+        "Chattanooga Red Wolves SC": "assets/logos/upstreams/chattanooga-red-wolves-sc.webp",
+        "Forward Madison FC": "assets/logos/upstreams/forward-madison-fc.webp",
+        "Charlotte Independence": "assets/logos/upstreams/charlotte-independence.webp",
+        "Pyrint\u00f6": "assets/logos/upstreams/pyrint\u00f6.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
