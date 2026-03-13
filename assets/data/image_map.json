@@ -8364,7 +8364,13 @@
         "Prahdiska Bagas Shujiwo": "assets/logos/upstreams/prahdiska-bagas-shujiwo.webp",
         "Ji Hoon Choi": "assets/logos/upstreams/ji-hoon-choi.webp",
         "New Zealand Warriors": "assets/logos/streamed/new-zealand-warriors.webp",
-        "Sydney Roosters": "assets/logos/streamed/sydney-roosters.webp"
+        "Sydney Roosters": "assets/logos/streamed/sydney-roosters.webp",
+        "Karag\u00fcmr\u00fck": "assets/logos/upstreams/karag\u00fcmr\u00fck.webp",
+        "Furth": "assets/logos/upstreams/furth.webp",
+        "Legnica": "assets/logos/upstreams/legnica.webp",
+        "Latvijas Universitate": "assets/logos/upstreams/latvijas-universitate.webp",
+        "AS Otoh\u00f4": "assets/logos/upstreams/as-otoh\u00f4.webp",
+        "Jay McFarlane": "assets/logos/upstreams/jay-mcfarlane.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -9175,6 +9181,7 @@
         "Metal Ligaen, Playoffs": "assets/logos/leagues/metal-ligaen-playoffs.webp",
         "NWSL": "assets/logos/leagues/nwsl.webp",
         "Austrian Bundesliga, Relegation Round": "assets/logos/leagues/austrian-bundesliga-relegation-round.webp",
-        "CAF Confederations Cup, Knockout stage": "assets/logos/leagues/caf-confederations-cup-knockout-stage.webp"
+        "CAF Confederations Cup, Knockout stage": "assets/logos/leagues/caf-confederations-cup-knockout-stage.webp",
+        "1. HNL": "assets/logos/leagues/1-hnl.webp"
     }
 }
