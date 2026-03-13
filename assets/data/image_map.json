@@ -8370,7 +8370,14 @@
         "Legnica": "assets/logos/upstreams/legnica.webp",
         "Latvijas Universitate": "assets/logos/upstreams/latvijas-universitate.webp",
         "AS Otoh\u00f4": "assets/logos/upstreams/as-otoh\u00f4.webp",
-        "Jay McFarlane": "assets/logos/upstreams/jay-mcfarlane.webp"
+        "Jay McFarlane": "assets/logos/upstreams/jay-mcfarlane.webp",
+        "Altach": "assets/logos/upstreams/altach.webp",
+        "Otelul Galati": "assets/logos/upstreams/otelul-galati.webp",
+        "Western Australia Women": "assets/logos/upstreams/western-australia-women.webp",
+        "Valence Handball": "assets/logos/upstreams/valence-handball.webp",
+        "Nikola Slavic": "assets/logos/upstreams/nikola-slavic.webp",
+        "Anton Shepp": "assets/logos/upstreams/anton-shepp.webp",
+        "WEastern Province (W)": "assets/logos/upstreams/weastern-province-w.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -9182,6 +9189,8 @@
         "NWSL": "assets/logos/leagues/nwsl.webp",
         "Austrian Bundesliga, Relegation Round": "assets/logos/leagues/austrian-bundesliga-relegation-round.webp",
         "CAF Confederations Cup, Knockout stage": "assets/logos/leagues/caf-confederations-cup-knockout-stage.webp",
-        "1. HNL": "assets/logos/leagues/1-hnl.webp"
+        "1. HNL": "assets/logos/leagues/1-hnl.webp",
+        "Bundesliga, Relegation Round": "assets/logos/leagues/bundesliga-relegation-round.webp",
+        "ROmania - SuperLeague - Playout": "assets/logos/leagues/romania-superleague-playout.webp"
     }
 }
