@@ -8377,7 +8377,11 @@
         "Valence Handball": "assets/logos/upstreams/valence-handball.webp",
         "Nikola Slavic": "assets/logos/upstreams/nikola-slavic.webp",
         "Anton Shepp": "assets/logos/upstreams/anton-shepp.webp",
-        "WEastern Province (W)": "assets/logos/upstreams/weastern-province-w.webp"
+        "WEastern Province (W)": "assets/logos/upstreams/weastern-province-w.webp",
+        "Aue": "assets/logos/upstreams/aue.webp",
+        "Saint Josephs": "assets/logos/upstreams/saint-josephs.webp",
+        "Cal State Northridge Matadors": "assets/logos/upstreams/cal-state-northridge-matadors.webp",
+        "UMBC Retrievers": "assets/logos/upstreams/umbc-retrievers.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
@@ -9191,6 +9195,9 @@
         "CAF Confederations Cup, Knockout stage": "assets/logos/leagues/caf-confederations-cup-knockout-stage.webp",
         "1. HNL": "assets/logos/leagues/1-hnl.webp",
         "Bundesliga, Relegation Round": "assets/logos/leagues/bundesliga-relegation-round.webp",
-        "ROmania - SuperLeague - Playout": "assets/logos/leagues/romania-superleague-playout.webp"
+        "ROmania - SuperLeague - Playout": "assets/logos/leagues/romania-superleague-playout.webp",
+        "Big Ten Conference, Playoffs": "assets/logos/leagues/big-ten-conference-playoffs.webp",
+        "Australia - NPL (W)": "assets/logos/leagues/australia-npl-w.webp",
+        "Big West Conference, Playoffs": "assets/logos/leagues/big-west-conference-playoffs.webp"
     }
 }
