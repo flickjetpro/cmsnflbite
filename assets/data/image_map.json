@@ -8491,7 +8491,10 @@
         "Pirin Blagoevgrad": "assets/logos/upstreams/pirin-blagoevgrad.webp",
         "Ayr": "assets/logos/upstreams/ayr.webp",
         "Watsonians": "assets/logos/upstreams/watsonians.webp",
-        "New York W": "assets/logos/upstreams/new-york-w.webp"
+        "New York W": "assets/logos/upstreams/new-york-w.webp",
+        "Wests Tigers": "assets/logos/streamed/wests-tigers.webp",
+        "St. George Illawara Dragons": "assets/logos/streamed/st-george-illawara-dragons.webp",
+        "Melbourne Storm": "assets/logos/streamed/melbourne-storm.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
