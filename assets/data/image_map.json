@@ -8589,7 +8589,9 @@
         "Viking": "assets/logos/upstreams/viking.webp",
         "Terek Grozny": "assets/logos/upstreams/terek-grozny.webp",
         "Michal Milko": "assets/logos/upstreams/michal-milko.webp",
-        "Tomas Talajka": "assets/logos/upstreams/tomas-talajka.webp"
+        "Tomas Talajka": "assets/logos/upstreams/tomas-talajka.webp",
+        "Bayern U19": "assets/logos/upstreams/bayern-u19.webp",
+        "Kaiserslautern U19": "assets/logos/upstreams/kaiserslautern-u19.webp"
     },
     "leagues": {
         "Ekstraklasa": "assets/logos/leagues/ekstraklasa.webp",
